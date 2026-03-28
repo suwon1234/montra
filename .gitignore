@@ -1,0 +1,16 @@
+node_modules/
+.next/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Claude Code / bkit
+CLAUDE.md
+.claude/
+memory/
+
+# 수집 데이터
+scripts/output/
+scripts/config/

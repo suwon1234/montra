@@ -1,0 +1,1095 @@
+{
+  "date": "2026-03-25",
+  "data": {
+    "AE": {
+      "dubaichocolate": {
+        "views": 28100000000,
+        "cat": "food"
+      },
+      "kunafa": {
+        "views": 3500000000,
+        "cat": "food"
+      },
+      "shawarma": {
+        "views": 10600000000,
+        "cat": "food"
+      },
+      "gissah": {
+        "views": 198900000,
+        "cat": "brands"
+      },
+      "hudabeauty": {
+        "views": 17400000000,
+        "cat": "brands"
+      },
+      "abaya": {
+        "views": 36700000000,
+        "cat": "fashion"
+      }
+    },
+    "AU": {
+      "flatwhite": {
+        "views": 454200000,
+        "cat": "food"
+      },
+      "vegemite": {
+        "views": 691500000,
+        "cat": "food"
+      },
+      "timtam": {
+        "views": 278300000,
+        "cat": "food"
+      },
+      "pavlova": {
+        "views": 1200000000,
+        "cat": "food"
+      },
+      "meatpie": {
+        "views": 502100000,
+        "cat": "food"
+      },
+      "aesop": {
+        "views": 365100000,
+        "cat": "brands"
+      },
+      "cottonon": {
+        "views": 1100000000,
+        "cat": "brands"
+      }
+    },
+    "BR": {
+      "acaibowl": {
+        "views": 3700000000,
+        "cat": "food"
+      },
+      "brigadeiro": {
+        "views": 6700000000,
+        "cat": "food"
+      },
+      "coxinha": {
+        "views": 3500000000,
+        "cat": "food"
+      },
+      "feijoada": {
+        "views": 1000000000,
+        "cat": "food"
+      },
+      "picanha": {
+        "views": 4900000000,
+        "cat": "food"
+      },
+      "natura": {
+        "views": 13900000000,
+        "cat": "brands"
+      },
+      "oboticario": {
+        "views": 17600000000,
+        "cat": "brands"
+      },
+      "havaianas": {
+        "views": 2800000000,
+        "cat": "fashion"
+      },
+      "samba": {
+        "views": 29100000000,
+        "cat": "challenges"
+      },
+      "funkbrasil": {
+        "views": 17900000000,
+        "cat": "challenges"
+      }
+    },
+    "CN": {
+      "hotpot": {
+        "views": 12500000000,
+        "cat": "food"
+      },
+      "boba": {
+        "views": 23200000000,
+        "cat": "food"
+      },
+      "dimsum": {
+        "views": 7200000000,
+        "cat": "food"
+      },
+      "malatang": {
+        "views": 1300000000,
+        "cat": "food"
+      },
+      "xiaolongbao": {
+        "views": 1100000000,
+        "cat": "food"
+      },
+      "hanfu": {
+        "views": 4100000000,
+        "cat": "fashion"
+      },
+      "shein": {
+        "views": 169600000000,
+        "cat": "brands"
+      },
+      "temu": {
+        "views": 191700000000,
+        "cat": "brands"
+      }
+    },
+    "DE": {
+      "pretzel": {
+        "views": 983500000,
+        "cat": "food"
+      },
+      "currywurst": {
+        "views": 408700000,
+        "cat": "food"
+      },
+      "doner": {
+        "views": 3700000000,
+        "cat": "food"
+      },
+      "schnitzel": {
+        "views": 1500000000,
+        "cat": "food"
+      },
+      "lidl": {
+        "views": 28500000000,
+        "cat": "brands"
+      },
+      "aldi": {
+        "views": 17400000000,
+        "cat": "brands"
+      },
+      "nivea": {
+        "views": 24600000000,
+        "cat": "brands"
+      }
+    },
+    "ES": {
+      "tapas": {
+        "views": 2900000000,
+        "cat": "food"
+      },
+      "churros": {
+        "views": 8900000000,
+        "cat": "food"
+      },
+      "paella": {
+        "views": 2800000000,
+        "cat": "food"
+      },
+      "zara": {
+        "views": 74200000000,
+        "cat": "brands"
+      },
+      "mango": {
+        "views": 31100000000,
+        "cat": "brands"
+      },
+      "mercadona": {
+        "views": 11900000000,
+        "cat": "brands"
+      }
+    },
+    "FR": {
+      "croissant": {
+        "views": 14600000000,
+        "cat": "food"
+      },
+      "macaron": {
+        "views": 3100000000,
+        "cat": "food"
+      },
+      "baguette": {
+        "views": 3300000000,
+        "cat": "food"
+      },
+      "crepe": {
+        "views": 6700000000,
+        "cat": "food"
+      },
+      "parisianstyle": {
+        "views": 3100000000,
+        "cat": "fashion"
+      },
+      "jacquemus": {
+        "views": 3700000000,
+        "cat": "fashion"
+      },
+      "dior": {
+        "views": 47700000000,
+        "cat": "brands"
+      },
+      "loreal": {
+        "views": 10000000000,
+        "cat": "brands"
+      }
+    },
+    "GB": {
+      "donerkebab": {
+        "views": 3900000000,
+        "cat": "food"
+      },
+      "biscoff": {
+        "views": 6400000000,
+        "cat": "food"
+      },
+      "fishchips": {
+        "views": 182400000,
+        "cat": "food"
+      },
+      "fullenglish": {
+        "views": 279400000,
+        "cat": "food"
+      },
+      "primark": {
+        "views": 18500000000,
+        "cat": "fashion"
+      },
+      "greggs": {
+        "views": 1600000000,
+        "cat": "brands"
+      },
+      "marksandspencer": {
+        "views": 2300000000,
+        "cat": "brands"
+      },
+      "drdent": {
+        "views": 2200000000,
+        "cat": "brands"
+      }
+    },
+    "GLOBAL": {
+      "sunscreen": {
+        "views": 58000000000,
+        "cat": "products"
+      },
+      "lipgloss": {
+        "views": 45200000000,
+        "cat": "products"
+      },
+      "iphone16": {
+        "views": 35000000000,
+        "cat": "products"
+      },
+      "airfryer": {
+        "views": 31000000000,
+        "cat": "products"
+      },
+      "smartwatch": {
+        "views": 29400000000,
+        "cat": "products"
+      },
+      "heatlesscurls": {
+        "views": 24400000000,
+        "cat": "products"
+      },
+      "niacinamide": {
+        "views": 19800000000,
+        "cat": "products"
+      },
+      "dysonairwrap": {
+        "views": 13800000000,
+        "cat": "products"
+      },
+      "lipoil": {
+        "views": 10400000000,
+        "cat": "products"
+      },
+      "hyaluronicacid": {
+        "views": 7000000000,
+        "cat": "products"
+      },
+      "airpodspro": {
+        "views": 5100000000,
+        "cat": "products"
+      },
+      "stanleytumbler": {
+        "views": 3500000000,
+        "cat": "products"
+      },
+      "vitamincserum": {
+        "views": 3500000000,
+        "cat": "products"
+      },
+      "snailmucin": {
+        "views": 3400000000,
+        "cat": "products"
+      },
+      "ringlight": {
+        "views": 2900000000,
+        "cat": "products"
+      },
+      "retinolserum": {
+        "views": 2600000000,
+        "cat": "products"
+      },
+      "wirelesscharger": {
+        "views": 2400000000,
+        "cat": "products"
+      },
+      "robotvacuum": {
+        "views": 1900000000,
+        "cat": "products"
+      },
+      "massagegun": {
+        "views": 1900000000,
+        "cat": "products"
+      },
+      "noisecancelling": {
+        "views": 1800000000,
+        "cat": "products"
+      },
+      "ledmask": {
+        "views": 707700000,
+        "cat": "products"
+      },
+      "galaxyprojector": {
+        "views": 690900000,
+        "cat": "products"
+      },
+      "portableblender": {
+        "views": 1500000000,
+        "cat": "products"
+      },
+      "minikaraoke": {
+        "views": 374900000,
+        "cat": "products"
+      },
+      "pethairremover": {
+        "views": 486700000,
+        "cat": "products"
+      },
+      "beautysponge": {
+        "views": 725300000,
+        "cat": "products"
+      },
+      "makeupbrush": {
+        "views": 1800000000,
+        "cat": "products"
+      },
+      "steamermop": {
+        "views": 6500000,
+        "cat": "products"
+      },
+      "magneticphone": {
+        "views": 6600000,
+        "cat": "products"
+      },
+      "portablevacuum": {
+        "views": 301300000,
+        "cat": "products"
+      },
+      "streetwear": {
+        "views": 123900000000,
+        "cat": "fashion"
+      },
+      "coquette": {
+        "views": 63800000000,
+        "cat": "fashion"
+      },
+      "oldmoney": {
+        "views": 45900000000,
+        "cat": "fashion"
+      },
+      "totebag": {
+        "views": 17900000000,
+        "cat": "fashion"
+      },
+      "cleangirlaesthetic": {
+        "views": 16900000000,
+        "cat": "fashion"
+      },
+      "cargopants": {
+        "views": 15700000000,
+        "cat": "fashion"
+      },
+      "y2kfashion": {
+        "views": 9000000000,
+        "cat": "fashion"
+      },
+      "balletcore": {
+        "views": 6900000000,
+        "cat": "fashion"
+      },
+      "gorpcore": {
+        "views": 6200000000,
+        "cat": "fashion"
+      },
+      "downtowngirl": {
+        "views": 6000000000,
+        "cat": "fashion"
+      },
+      "adidassamba": {
+        "views": 6000000000,
+        "cat": "fashion"
+      },
+      "miniSkirt": {
+        "views": 5300000000,
+        "cat": "fashion"
+      },
+      "crossbodybag": {
+        "views": 5100000000,
+        "cat": "fashion"
+      },
+      "nikedunk": {
+        "views": 4900000000,
+        "cat": "fashion"
+      },
+      "widelegpants": {
+        "views": 4600000000,
+        "cat": "fashion"
+      },
+      "matchingset": {
+        "views": 4500000000,
+        "cat": "fashion"
+      },
+      "blazeroutfit": {
+        "views": 3200000000,
+        "cat": "fashion"
+      },
+      "athleisure": {
+        "views": 3200000000,
+        "cat": "fashion"
+      },
+      "leatherjacket": {
+        "views": 2900000000,
+        "cat": "fashion"
+      },
+      "birkenstock": {
+        "views": 1200000000,
+        "cat": "fashion"
+      },
+      "oversizedhoodie": {
+        "views": 1200000000,
+        "cat": "fashion"
+      },
+      "platformshoes": {
+        "views": 1600000000,
+        "cat": "fashion"
+      },
+      "baseballcap": {
+        "views": 912200000,
+        "cat": "fashion"
+      },
+      "denimjacket": {
+        "views": 1600000000,
+        "cat": "fashion"
+      },
+      "bohostyle": {
+        "views": 2500000000,
+        "cat": "fashion"
+      },
+      "coastalcowgirl": {
+        "views": 559200000,
+        "cat": "fashion"
+      },
+      "mobwife": {
+        "views": 1000000000,
+        "cat": "fashion"
+      },
+      "quietluxury": {
+        "views": 2600000000,
+        "cat": "fashion"
+      },
+      "layeredlook": {
+        "views": 88100000,
+        "cat": "fashion"
+      },
+      "cropTop": {
+        "views": 15000000000,
+        "cat": "fashion"
+      },
+      "grwm": {
+        "views": 508500000000,
+        "cat": "challenges"
+      },
+      "glowup": {
+        "views": 311700000000,
+        "cat": "challenges"
+      },
+      "transformation": {
+        "views": 194900000000,
+        "cat": "challenges"
+      },
+      "dayinmylife": {
+        "views": 108900000000,
+        "cat": "challenges"
+      },
+      "beforeandafter": {
+        "views": 99600000000,
+        "cat": "challenges"
+      },
+      "getreadywithme": {
+        "views": 67700000000,
+        "cat": "challenges"
+      },
+      "makeupchallenge": {
+        "views": 38900000000,
+        "cat": "challenges"
+      },
+      "trynottolaugh": {
+        "views": 33000000000,
+        "cat": "challenges"
+      },
+      "coupleChallenge": {
+        "views": 11000000000,
+        "cat": "challenges"
+      },
+      "outfitchallenge": {
+        "views": 2600000000,
+        "cat": "challenges"
+      },
+      "bombardirocrocodilo": {
+        "views": 2500000000,
+        "cat": "challenges"
+      },
+      "pushupchallenge": {
+        "views": 4600000000,
+        "cat": "challenges"
+      },
+      "plankchallenge": {
+        "views": 4200000000,
+        "cat": "challenges"
+      },
+      "bottlecapchallenge": {
+        "views": 4000000000,
+        "cat": "challenges"
+      },
+      "whatiwore": {
+        "views": 2200000000,
+        "cat": "challenges"
+      },
+      "bestfriendcheck": {
+        "views": 1500000000,
+        "cat": "challenges"
+      },
+      "fliptheswitchchallenge": {
+        "views": 867200000,
+        "cat": "challenges"
+      },
+      "the10game": {
+        "views": 136800000,
+        "cat": "challenges"
+      },
+      "squareupchallenge": {
+        "views": 50600000,
+        "cat": "challenges"
+      },
+      "dancechallenge2026": {
+        "views": 202700000,
+        "cat": "challenges"
+      }
+    },
+    "ID": {
+      "nasigoreng": {
+        "views": 6000000000,
+        "cat": "food"
+      },
+      "indomie": {
+        "views": 10300000000,
+        "cat": "food"
+      },
+      "rendang": {
+        "views": 3600000000,
+        "cat": "food"
+      },
+      "satay": {
+        "views": 437300000,
+        "cat": "food"
+      },
+      "wardah": {
+        "views": 9500000000,
+        "cat": "brands"
+      },
+      "somethinc": {
+        "views": 6800000000,
+        "cat": "brands"
+      },
+      "shopee": {
+        "views": 53100000000,
+        "cat": "brands"
+      },
+      "hijabfashion": {
+        "views": 8700000000,
+        "cat": "fashion"
+      }
+    },
+    "IN": {
+      "biryani": {
+        "views": 7200000000,
+        "cat": "food"
+      },
+      "chai": {
+        "views": 10900000000,
+        "cat": "food"
+      },
+      "panipuri": {
+        "views": 6500000000,
+        "cat": "food"
+      },
+      "dosa": {
+        "views": 2700000000,
+        "cat": "food"
+      },
+      "samosa": {
+        "views": 3100000000,
+        "cat": "food"
+      },
+      "butterchicken": {
+        "views": 3400000000,
+        "cat": "food"
+      },
+      "saree": {
+        "views": 16500000000,
+        "cat": "fashion"
+      },
+      "nykaa": {
+        "views": 379500000,
+        "cat": "brands"
+      },
+      "bollywooddance": {
+        "views": 21500000000,
+        "cat": "challenges"
+      }
+    },
+    "IT": {
+      "pasta": {
+        "views": 91000000000,
+        "cat": "food"
+      },
+      "pizza": {
+        "views": 162200000000,
+        "cat": "food"
+      },
+      "gelato": {
+        "views": 9800000000,
+        "cat": "food"
+      },
+      "tiramisu": {
+        "views": 16100000000,
+        "cat": "food"
+      },
+      "carbonara": {
+        "views": 8300000000,
+        "cat": "food"
+      },
+      "aperolspritz": {
+        "views": 2000000000,
+        "cat": "food"
+      },
+      "madeinitaly": {
+        "views": 6500000000,
+        "cat": "fashion"
+      },
+      "diesel": {
+        "views": 47600000000,
+        "cat": "brands"
+      },
+      "loewe": {
+        "views": 4000000000,
+        "cat": "brands"
+      },
+      "lavazza": {
+        "views": 441000000,
+        "cat": "brands"
+      }
+    },
+    "JP": {
+      "matcha": {
+        "views": 49400000000,
+        "cat": "food"
+      },
+      "mochi": {
+        "views": 23100000000,
+        "cat": "food"
+      },
+      "ramen": {
+        "views": 48100000000,
+        "cat": "food"
+      },
+      "sushi": {
+        "views": 80600000000,
+        "cat": "food"
+      },
+      "onigiri": {
+        "views": 3300000000,
+        "cat": "food"
+      },
+      "takoyaki": {
+        "views": 2700000000,
+        "cat": "food"
+      },
+      "japanesecheesecake": {
+        "views": 1000000000,
+        "cat": "food"
+      },
+      "taiyaki": {
+        "views": 493600000,
+        "cat": "food"
+      },
+      "gyudon": {
+        "views": 175000000,
+        "cat": "food"
+      },
+      "gyaru": {
+        "views": 10300000000,
+        "cat": "fashion"
+      },
+      "harajuku": {
+        "views": 3100000000,
+        "cat": "fashion"
+      },
+      "dreamcoreaesthetic": {
+        "views": 1400000000,
+        "cat": "fashion"
+      },
+      "uniqlo": {
+        "views": 12600000000,
+        "cat": "brands"
+      },
+      "muji": {
+        "views": 2100000000,
+        "cat": "brands"
+      },
+      "shiseido": {
+        "views": 1400000000,
+        "cat": "brands"
+      },
+      "daiso": {
+        "views": 4400000000,
+        "cat": "brands"
+      }
+    },
+    "KR": {
+      "tteokbokki": {
+        "views": 7600000000,
+        "cat": "food"
+      },
+      "buldak": {
+        "views": 22600000000,
+        "cat": "food"
+      },
+      "tanghulu": {
+        "views": 6700000000,
+        "cat": "food"
+      },
+      "kimchi": {
+        "views": 12300000000,
+        "cat": "food"
+      },
+      "gimbap": {
+        "views": 786900000,
+        "cat": "food"
+      },
+      "hotteok": {
+        "views": 444000000,
+        "cat": "food"
+      },
+      "koreanramen": {
+        "views": 795300000,
+        "cat": "food"
+      },
+      "yakgwa": {
+        "views": 54200000,
+        "cat": "food"
+      },
+      "samgyeopsal": {
+        "views": 274800000,
+        "cat": "food"
+      },
+      "jjajangmyeon": {
+        "views": 1000000000,
+        "cat": "food"
+      },
+      "chimaek": {
+        "views": 29200000,
+        "cat": "food"
+      },
+      "bungeoppang": {
+        "views": 147700000,
+        "cat": "food"
+      },
+      "ulzzang": {
+        "views": 2700000000,
+        "cat": "fashion"
+      },
+      "hanbok": {
+        "views": 1300000000,
+        "cat": "fashion"
+      },
+      "oliveyoung": {
+        "views": 4300000000,
+        "cat": "brands"
+      },
+      "fwee": {
+        "views": 2500000000,
+        "cat": "brands"
+      },
+      "clio": {
+        "views": 5200000000,
+        "cat": "brands"
+      },
+      "innisfree": {
+        "views": 2800000000,
+        "cat": "brands"
+      },
+      "musinsa": {
+        "views": 126300000,
+        "cat": "brands"
+      },
+      "gentlemonster": {
+        "views": 1200000000,
+        "cat": "brands"
+      },
+      "koreanskincare": {
+        "views": 67600000000,
+        "cat": "products"
+      },
+      "kpopchallenge": {
+        "views": 1900000000,
+        "cat": "challenges"
+      }
+    },
+    "MX": {
+      "tacos": {
+        "views": 56000000000,
+        "cat": "food"
+      },
+      "birria": {
+        "views": 10100000000,
+        "cat": "food"
+      },
+      "elote": {
+        "views": 5000000000,
+        "cat": "food"
+      },
+      "tamales": {
+        "views": 8300000000,
+        "cat": "food"
+      },
+      "churros": {
+        "views": 8900000000,
+        "cat": "food"
+      },
+      "guacamole": {
+        "views": 5600000000,
+        "cat": "food"
+      },
+      "corona": {
+        "views": 34700000000,
+        "cat": "brands"
+      }
+    },
+    "NG": {
+      "jollofrice": {
+        "views": 1700000000,
+        "cat": "food"
+      },
+      "suya": {
+        "views": 498800000,
+        "cat": "food"
+      },
+      "puffpuff": {
+        "views": 382400000,
+        "cat": "food"
+      },
+      "ankarafashion": {
+        "views": 942400000,
+        "cat": "fashion"
+      }
+    },
+    "PH": {
+      "adobo": {
+        "views": 1800000000,
+        "cat": "food"
+      },
+      "lechon": {
+        "views": 2000000000,
+        "cat": "food"
+      },
+      "sisig": {
+        "views": 884300000,
+        "cat": "food"
+      },
+      "halohalo": {
+        "views": 652500000,
+        "cat": "food"
+      },
+      "lumpia": {
+        "views": 2400000000,
+        "cat": "food"
+      },
+      "jollibee": {
+        "views": 16100000000,
+        "cat": "brands"
+      }
+    },
+    "TH": {
+      "padthai": {
+        "views": 1300000000,
+        "cat": "food"
+      },
+      "tomyum": {
+        "views": 960400000,
+        "cat": "food"
+      },
+      "mangostickyrice": {
+        "views": 1100000000,
+        "cat": "food"
+      },
+      "somtam": {
+        "views": 977500000,
+        "cat": "food"
+      },
+      "mistine": {
+        "views": 2900000000,
+        "cat": "brands"
+      }
+    },
+    "TR": {
+      "kebab": {
+        "views": 27200000000,
+        "cat": "food"
+      },
+      "baklava": {
+        "views": 6600000000,
+        "cat": "food"
+      },
+      "dondurma": {
+        "views": 2900000000,
+        "cat": "food"
+      },
+      "turkishcoffee": {
+        "views": 804600000,
+        "cat": "food"
+      },
+      "lcwaikiki": {
+        "views": 1800000000,
+        "cat": "brands"
+      }
+    },
+    "US": {
+      "pickledip": {
+        "views": 162900000,
+        "cat": "food"
+      },
+      "mushroomcoffee": {
+        "views": 285300000,
+        "cat": "food"
+      },
+      "crumblcookies": {
+        "views": 16900000000,
+        "cat": "food"
+      },
+      "cottagecheese": {
+        "views": 4000000000,
+        "cat": "food"
+      },
+      "pistachio": {
+        "views": 8400000000,
+        "cat": "food"
+      },
+      "smashburger": {
+        "views": 8000000000,
+        "cat": "food"
+      },
+      "birria": {
+        "views": 10100000000,
+        "cat": "food"
+      },
+      "acaibowl": {
+        "views": 3700000000,
+        "cat": "food"
+      },
+      "coquette": {
+        "views": 63800000000,
+        "cat": "fashion"
+      },
+      "oldmoney": {
+        "views": 45900000000,
+        "cat": "fashion"
+      },
+      "quietluxury": {
+        "views": 2600000000,
+        "cat": "fashion"
+      },
+      "balletcore": {
+        "views": 6900000000,
+        "cat": "fashion"
+      },
+      "y2kfashion": {
+        "views": 9000000000,
+        "cat": "fashion"
+      },
+      "gorpcore": {
+        "views": 6200000000,
+        "cat": "fashion"
+      },
+      "mobwife": {
+        "views": 1000000000,
+        "cat": "fashion"
+      },
+      "rhode": {
+        "views": 10100000000,
+        "cat": "brands"
+      },
+      "fentybeauty": {
+        "views": 12000000000,
+        "cat": "brands"
+      },
+      "stanleycup": {
+        "views": 16500000000,
+        "cat": "brands"
+      },
+      "dyson": {
+        "views": 18000000000,
+        "cat": "brands"
+      },
+      "lululemon": {
+        "views": 24400000000,
+        "cat": "brands"
+      },
+      "amazonfinds": {
+        "views": 112200000000,
+        "cat": "products"
+      },
+      "galaxyprojector": {
+        "views": 690900000,
+        "cat": "products"
+      },
+      "the10game": {
+        "views": 136800000,
+        "cat": "challenges"
+      },
+      "squareupchallenge": {
+        "views": 50600000,
+        "cat": "challenges"
+      },
+      "makeupchallenge": {
+        "views": 38900000000,
+        "cat": "challenges"
+      },
+      "outfitchallenge": {
+        "views": 2600000000,
+        "cat": "challenges"
+      }
+    },
+    "ZA": {
+      "braai": {
+        "views": 928600000,
+        "cat": "food"
+      },
+      "biltong": {
+        "views": 300300000,
+        "cat": "food"
+      },
+      "amapiano": {
+        "views": 48700000000,
+        "cat": "challenges"
+      },
+      "amapianodance": {
+        "views": 11000000000,
+        "cat": "challenges"
+      }
+    }
+  }
+}

@@ -1,0 +1,229 @@
+============================================================
+MONTRA - Google Trends Collector v2 (5x batch)
+============================================================
+
+[1/3] Loading trends...
+  Loaded 182 trends...
+  Total: 182
+  Countries: 52
+
+[2/3] Initializing Google Trends...
+
+[3/3] Collecting (batch=5, ~0.1h remaining)...
+
+  [AE] 5 pending / 5 total
+    [OK] Gissah Perfume
+  [SAVED] 5/182 (1 OK, 4 skip)
+
+  [AR] 3 pending / 3 total
+    [OK] Harry Styles - Kiss All the Time
+  [SAVED] 8/182 (2 OK, 6 skip)
+
+  [AU] 3 pending / 3 total
+    [OK] Harry Styles - Kiss All the Time
+    [OK] Fakeaway Doner Kebab Challenge Styl
+    [OK] Outdoor Surf Style AU
+  [SAVED] 11/182 (5 OK, 6 skip)
+
+  [BD] 2 pending / 2 total
+    [OK] Wait Trend Challenge 벵골
+  [SAVED] 13/182 (6 OK, 7 skip)
+
+  [BR] 3 pending / 3 total
+    [OK] Harry Styles - Kiss All the Time
+  [SAVED] 16/182 (7 OK, 9 skip)
+
+  [CA] 2 pending / 2 total
+    [OK] Korean Skincare Set
+  [SAVED] 18/182 (8 OK, 10 skip)
+
+  [CN] 8 pending / 8 total
+  [SAVED] 23/182 (8 OK, 15 skip)
+    [OK] Organic Green Food
+  [SAVED] 26/182 (9 OK, 17 skip)
+
+  [CO] 3 pending / 3 total
+  [SAVED] 29/182 (9 OK, 20 skip)
+
+  [DE] 6 pending / 6 total
+    [OK] Miralina's Halal Sweets
+    [OK] Harry Styles - Kiss All the Time
+  [SAVED] 34/182 (11 OK, 23 skip)
+  [SAVED] 35/182 (11 OK, 24 skip)
+
+  [DO] 1 pending / 1 total
+    [OK] Yailin La Mas Viral
+  [SAVED] 36/182 (12 OK, 24 skip)
+
+  [ES] 5 pending / 5 total
+    [OK] Foldable Drying Rack TikTok Shop
+    [OK] Harry Styles - Kiss All the Time
+    [OK] Vitalis NAD+ TikTok Shop
+  [SAVED] 41/182 (15 OK, 26 skip)
+
+  [ET] 3 pending / 3 total
+  [SAVED] 44/182 (15 OK, 29 skip)
+
+  [FJ] 3 pending / 3 total
+  [SAVED] 47/182 (15 OK, 32 skip)
+
+  [FR] 8 pending / 8 total
+    [OK] Harry Styles - Kiss All the Time
+  [SAVED] 52/182 (16 OK, 36 skip)
+  [SAVED] 55/182 (16 OK, 39 skip)
+
+  [GB] 7 pending / 7 total
+    [OK] Harry Styles - Kiss All the Time
+  [SAVED] 60/182 (17 OK, 43 skip)
+    [OK] Oscars Outfit Tier List Challenge
+  [SAVED] 62/182 (18 OK, 44 skip)
+
+  [GH] 3 pending / 3 total
+  [SAVED] 65/182 (18 OK, 47 skip)
+
+  [GR] 1 pending / 1 total
+  [SAVED] 66/182 (18 OK, 48 skip)
+
+  [GT] 3 pending / 3 total
+    [OK] Harry Styles - Kiss All the Time
+  [SAVED] 69/182 (19 OK, 50 skip)
+
+  [HK] 1 pending / 1 total
+  [SAVED] 70/182 (19 OK, 51 skip)
+
+  [HN] 3 pending / 3 total
+  [SAVED] 73/182 (19 OK, 54 skip)
+
+  [ID] 3 pending / 3 total
+    [OK] Harry Styles - Kiss All the Time
+    [OK] Zaafer Indonesia
+  [SAVED] 76/182 (21 OK, 55 skip)
+
+  [IL] 3 pending / 3 total
+    [OK] Tel Aviv 2026 Trend
+  [SAVED] 79/182 (22 OK, 57 skip)
+
+  [IN] 3 pending / 3 total
+    [OK] Harry Styles - Kiss All the Time
+  [SAVED] 82/182 (23 OK, 59 skip)
+
+  [IS] 1 pending / 1 total
+  [SAVED] 83/182 (23 OK, 60 skip)
+
+  [IT] 5 pending / 5 total
+    [OK] Harry Styles - Kiss All the Time
+  [SAVED] 88/182 (24 OK, 64 skip)
+
+  [JM] 1 pending / 1 total
+  [SAVED] 89/182 (24 OK, 65 skip)
+
+  [JP] 8 pending / 8 total
+    [OK] Chicken Katsu Musubi Fusion
+    [OK] Fakeaway Doner Kebab Challenge Styl
+  [SAVED] 94/182 (26 OK, 68 skip)
+    [OK] Itsu
+    [OK] Harry Styles - Kiss All the Time
+  [SAVED] 97/182 (28 OK, 69 skip)
+
+  [KE] 4 pending / 4 total
+  [SAVED] 101/182 (28 OK, 73 skip)
+
+  [KR] 9 pending / 9 total
+    [OK] fwee
+    [OK] Olive Young
+    [OK] Harry Styles - Kiss All the Time
+  [SAVED] 106/182 (31 OK, 75 skip)
+    [OK] Fakeaway Doner Kebab Challenge Styl
+    [OK] CLIO
+  [SAVED] 110/182 (33 OK, 77 skip)
+
+  [KZ] 1 pending / 1 total
+  [SAVED] 111/182 (33 OK, 78 skip)
+
+  [LB] 3 pending / 3 total
+  [SAVED] 114/182 (33 OK, 81 skip)
+
+  [MA] 1 pending / 1 total
+  [SAVED] 115/182 (33 OK, 82 skip)
+
+  [MM] 1 pending / 1 total
+    [OK] Myanmar Water Festival
+  [SAVED] 116/182 (34 OK, 82 skip)
+
+  [MX] 4 pending / 4 total
+    [OK] Harry Styles - Kiss All the Time
+  [SAVED] 120/182 (35 OK, 85 skip)
+
+  [MY] 4 pending / 4 total
+  [SAVED] 124/182 (35 OK, 89 skip)
+
+  [NG] 3 pending / 3 total
+  [SAVED] 127/182 (35 OK, 92 skip)
+
+  [NL] 1 pending / 1 total
+  [SAVED] 128/182 (35 OK, 93 skip)
+
+  [NZ] 3 pending / 3 total
+    [OK] Harry Styles - Kiss All the Time
+  [SAVED] 131/182 (36 OK, 95 skip)
+
+  [PH] 5 pending / 5 total
+    [OK] Harry Styles - Kiss All the Time
+    [OK] Hawak Mo Ang Beat Dance
+    [OK] Modern Filipiniana
+  [SAVED] 136/182 (39 OK, 97 skip)
+
+  [PK] 1 pending / 1 total
+  [SAVED] 137/182 (39 OK, 98 skip)
+
+  [RS] 1 pending / 1 total
+  [SAVED] 138/182 (39 OK, 99 skip)
+
+  [RU] 1 pending / 1 total
+  [SAVED] 139/182 (39 OK, 100 skip)
+
+  [SA] 4 pending / 4 total
+  [SAVED] 143/182 (39 OK, 104 skip)
+
+  [SG] 4 pending / 4 total
+    [OK] Harry Styles - Kiss All the Time
+  [SAVED] 147/182 (40 OK, 107 skip)
+
+  [TH] 4 pending / 4 total
+    [OK] Tom Yum Sous-Vide
+  [SAVED] 151/182 (41 OK, 110 skip)
+
+  [TO] 3 pending / 3 total
+    [OK] Polynesian Cultural Dance TO
+  [SAVED] 154/182 (42 OK, 112 skip)
+
+  [TW] 3 pending / 3 total
+  [SAVED] 157/182 (42 OK, 115 skip)
+
+  [UA] 3 pending / 3 total
+  [SAVED] 160/182 (42 OK, 118 skip)
+
+  [US] 11 pending / 11 total
+    [OK] Fenty Beauty
+    [OK] Sweet Potato + Cheese (Courtney Coo
+  [SAVED] 165/182 (44 OK, 121 skip)
+    [OK] Rhode
+    [OK] Harry Styles - Kiss All the Time
+  [SAVED] 170/182 (46 OK, 124 skip)
+  [SAVED] 171/182 (46 OK, 125 skip)
+
+  [VN] 3 pending / 3 total
+  [SAVED] 174/182 (46 OK, 128 skip)
+
+  [WS] 3 pending / 3 total
+  [SAVED] 177/182 (46 OK, 131 skip)
+
+  [ZA] 5 pending / 5 total
+    [OK] Amapiano Dance Challenge
+  [SAVED] 182/182 (47 OK, 135 skip)
+  [SAVED] 182/182 (47 OK, 135 skip)
+
+============================================================
+DONE! 182/182 (47 with data, 135 no data)
+Output: D:\prototypes\montra\scripts\output\trend_history_real.sql
+============================================================

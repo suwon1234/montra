@@ -1,0 +1,452 @@
+[
+  {
+    "code": "KR",
+    "name": "South Korea",
+    "google_trends_geo": "KR",
+    "tiktok_country": "KR",
+    "language": "ko",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "google_trends_geo": "US",
+    "tiktok_country": "US",
+    "language": "en",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "JP",
+    "name": "Japan",
+    "google_trends_geo": "JP",
+    "tiktok_country": "JP",
+    "language": "ja",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "CN",
+    "name": "China",
+    "google_trends_geo": "CN",
+    "tiktok_country": "CN",
+    "language": "zh",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "GB",
+    "name": "United Kingdom",
+    "google_trends_geo": "GB",
+    "tiktok_country": "GB",
+    "language": "en",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "FR",
+    "name": "France",
+    "google_trends_geo": "FR",
+    "tiktok_country": "FR",
+    "language": "fr",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "TH",
+    "name": "Thailand",
+    "google_trends_geo": "TH",
+    "tiktok_country": "TH",
+    "language": "th",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "VN",
+    "name": "Vietnam",
+    "google_trends_geo": "VN",
+    "tiktok_country": "VN",
+    "language": "vi",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "ID",
+    "name": "Indonesia",
+    "google_trends_geo": "ID",
+    "tiktok_country": "ID",
+    "language": "id",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "IN",
+    "name": "India",
+    "google_trends_geo": "IN",
+    "tiktok_country": "IN",
+    "language": "hi",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "SG",
+    "name": "Singapore",
+    "google_trends_geo": "SG",
+    "tiktok_country": "SG",
+    "language": "en",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "MY",
+    "name": "Malaysia",
+    "google_trends_geo": "MY",
+    "tiktok_country": "MY",
+    "language": "ms",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "PH",
+    "name": "Philippines",
+    "google_trends_geo": "PH",
+    "tiktok_country": "PH",
+    "language": "tl",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "TW",
+    "name": "Taiwan",
+    "google_trends_geo": "TW",
+    "tiktok_country": "TW",
+    "language": "zh",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "HK",
+    "name": "Hong Kong",
+    "google_trends_geo": "HK",
+    "tiktok_country": "HK",
+    "language": "zh",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "AE",
+    "name": "UAE",
+    "google_trends_geo": "AE",
+    "tiktok_country": "AE",
+    "language": "ar",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "SA",
+    "name": "Saudi Arabia",
+    "google_trends_geo": "SA",
+    "tiktok_country": "SA",
+    "language": "ar",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "IL",
+    "name": "Israel",
+    "google_trends_geo": "IL",
+    "tiktok_country": "IL",
+    "language": "he",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "TR",
+    "name": "Turkey",
+    "google_trends_geo": "TR",
+    "tiktok_country": "TR",
+    "language": "tr",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "DE",
+    "name": "Germany",
+    "google_trends_geo": "DE",
+    "tiktok_country": "DE",
+    "language": "de",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "google_trends_geo": "IT",
+    "tiktok_country": "IT",
+    "language": "it",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "google_trends_geo": "ES",
+    "tiktok_country": "ES",
+    "language": "es",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "NL",
+    "name": "Netherlands",
+    "google_trends_geo": "NL",
+    "tiktok_country": "NL",
+    "language": "nl",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "SE",
+    "name": "Sweden",
+    "google_trends_geo": "SE",
+    "tiktok_country": "SE",
+    "language": "sv",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "PL",
+    "name": "Poland",
+    "google_trends_geo": "PL",
+    "tiktok_country": "PL",
+    "language": "pl",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "CH",
+    "name": "Switzerland",
+    "google_trends_geo": "CH",
+    "tiktok_country": "CH",
+    "language": "de",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "AT",
+    "name": "Austria",
+    "google_trends_geo": "AT",
+    "tiktok_country": "AT",
+    "language": "de",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "BE",
+    "name": "Belgium",
+    "google_trends_geo": "BE",
+    "tiktok_country": "BE",
+    "language": "nl",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "PT",
+    "name": "Portugal",
+    "google_trends_geo": "PT",
+    "tiktok_country": "PT",
+    "language": "pt",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "NO",
+    "name": "Norway",
+    "google_trends_geo": "NO",
+    "tiktok_country": "NO",
+    "language": "no",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "DK",
+    "name": "Denmark",
+    "google_trends_geo": "DK",
+    "tiktok_country": "DK",
+    "language": "da",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "FI",
+    "name": "Finland",
+    "google_trends_geo": "FI",
+    "tiktok_country": "FI",
+    "language": "fi",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "CZ",
+    "name": "Czech Republic",
+    "google_trends_geo": "CZ",
+    "tiktok_country": "CZ",
+    "language": "cs",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "GR",
+    "name": "Greece",
+    "google_trends_geo": "GR",
+    "tiktok_country": "GR",
+    "language": "el",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "IE",
+    "name": "Ireland",
+    "google_trends_geo": "IE",
+    "tiktok_country": "IE",
+    "language": "en",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "RO",
+    "name": "Romania",
+    "google_trends_geo": "RO",
+    "tiktok_country": "RO",
+    "language": "ro",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "google_trends_geo": "CA",
+    "tiktok_country": "CA",
+    "language": "en",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "google_trends_geo": "MX",
+    "tiktok_country": "MX",
+    "language": "es",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "google_trends_geo": "BR",
+    "tiktok_country": "BR",
+    "language": "pt",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "google_trends_geo": "AR",
+    "tiktok_country": "AR",
+    "language": "es",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "CO",
+    "name": "Colombia",
+    "google_trends_geo": "CO",
+    "tiktok_country": "CO",
+    "language": "es",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "CL",
+    "name": "Chile",
+    "google_trends_geo": "CL",
+    "tiktok_country": "CL",
+    "language": "es",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "PE",
+    "name": "Peru",
+    "google_trends_geo": "PE",
+    "tiktok_country": "PE",
+    "language": "es",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "ZA",
+    "name": "South Africa",
+    "google_trends_geo": "ZA",
+    "tiktok_country": "ZA",
+    "language": "en",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "NG",
+    "name": "Nigeria",
+    "google_trends_geo": "NG",
+    "tiktok_country": "NG",
+    "language": "en",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "EG",
+    "name": "Egypt",
+    "google_trends_geo": "EG",
+    "tiktok_country": "EG",
+    "language": "ar",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "KE",
+    "name": "Kenya",
+    "google_trends_geo": "KE",
+    "tiktok_country": "KE",
+    "language": "en",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "MA",
+    "name": "Morocco",
+    "google_trends_geo": "MA",
+    "tiktok_country": "MA",
+    "language": "fr",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "google_trends_geo": "AU",
+    "tiktok_country": "AU",
+    "language": "en",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  },
+  {
+    "code": "NZ",
+    "name": "New Zealand",
+    "google_trends_geo": "NZ",
+    "tiktok_country": "NZ",
+    "language": "en",
+    "categories": ["fashion", "beauty", "food", "tech", "lifestyle"],
+    "enabled": true
+  }
+]

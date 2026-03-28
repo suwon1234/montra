@@ -1,0 +1,2623 @@
+{
+  "AE": [
+    {
+      "hashtag": "dubaifood",
+      "category": "food",
+      "views": 2600000000,
+      "score": 95,
+      "country_id": "8d4b6458-e5c6-4e01-b4f0-0e07c295e9e9",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "dubaichocolate",
+      "category": "food",
+      "views": 28100000000,
+      "score": 100,
+      "country_id": "8d4b6458-e5c6-4e01-b4f0-0e07c295e9e9",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "kunafa",
+      "category": "food",
+      "views": 3500000000,
+      "score": 95,
+      "country_id": "8d4b6458-e5c6-4e01-b4f0-0e07c295e9e9",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "shawarma",
+      "category": "food",
+      "views": 10600000000,
+      "score": 100,
+      "country_id": "8d4b6458-e5c6-4e01-b4f0-0e07c295e9e9",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "arabicfood",
+      "category": "food",
+      "views": 3600000000,
+      "score": 95,
+      "country_id": "8d4b6458-e5c6-4e01-b4f0-0e07c295e9e9",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "dubaifashion",
+      "category": "fashion",
+      "views": 1200000000,
+      "score": 95,
+      "country_id": "8d4b6458-e5c6-4e01-b4f0-0e07c295e9e9",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "abaya",
+      "category": "fashion",
+      "views": 36700000000,
+      "score": 100,
+      "country_id": "8d4b6458-e5c6-4e01-b4f0-0e07c295e9e9",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "modestfashion",
+      "category": "fashion",
+      "views": 21200000000,
+      "score": 100,
+      "country_id": "8d4b6458-e5c6-4e01-b4f0-0e07c295e9e9",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "gissah",
+      "category": "brands",
+      "views": 198700000,
+      "score": 80,
+      "country_id": "8d4b6458-e5c6-4e01-b4f0-0e07c295e9e9",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "hudabeauty",
+      "category": "brands",
+      "views": 17400000000,
+      "score": 100,
+      "country_id": "8d4b6458-e5c6-4e01-b4f0-0e07c295e9e9",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    }
+  ],
+  "AR": [
+    {
+      "hashtag": "argentinefood",
+      "category": "food",
+      "views": 4400000,
+      "score": 45,
+      "country_id": "c5bba1c2-fee8-4816-bd1b-c4b497e4441b",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "asado",
+      "category": "food",
+      "views": 11100000000,
+      "score": 100,
+      "country_id": "c5bba1c2-fee8-4816-bd1b-c4b497e4441b",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "empanadas",
+      "category": "food",
+      "views": 6900000000,
+      "score": 95,
+      "country_id": "c5bba1c2-fee8-4816-bd1b-c4b497e4441b",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "dulcedeleche",
+      "category": "food",
+      "views": 3400000000,
+      "score": 95,
+      "country_id": "c5bba1c2-fee8-4816-bd1b-c4b497e4441b",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "alfajor",
+      "category": "food",
+      "views": 1200000000,
+      "score": 95,
+      "country_id": "c5bba1c2-fee8-4816-bd1b-c4b497e4441b",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "cumbiaremix",
+      "category": "challenge",
+      "views": 16500000,
+      "score": 60,
+      "country_id": "c5bba1c2-fee8-4816-bd1b-c4b497e4441b",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    }
+  ],
+  "AU": [
+    {
+      "hashtag": "australianfood",
+      "category": "food",
+      "views": 142100000,
+      "score": 80,
+      "country_id": "1fba6671-63c6-4f49-a05c-6dcbd113b27f",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "flatwhite",
+      "category": "food",
+      "views": 454000000,
+      "score": 80,
+      "country_id": "1fba6671-63c6-4f49-a05c-6dcbd113b27f",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "vegemite",
+      "category": "food",
+      "views": 691400000,
+      "score": 90,
+      "country_id": "1fba6671-63c6-4f49-a05c-6dcbd113b27f",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "timtam",
+      "category": "food",
+      "views": 278300000,
+      "score": 80,
+      "country_id": "1fba6671-63c6-4f49-a05c-6dcbd113b27f",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "meatpie",
+      "category": "food",
+      "views": 501800000,
+      "score": 90,
+      "country_id": "1fba6671-63c6-4f49-a05c-6dcbd113b27f",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "pavlova",
+      "category": "food",
+      "views": 1200000000,
+      "score": 95,
+      "country_id": "1fba6671-63c6-4f49-a05c-6dcbd113b27f",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "australianfashion",
+      "category": "fashion",
+      "views": 671500000,
+      "score": 90,
+      "country_id": "1fba6671-63c6-4f49-a05c-6dcbd113b27f",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "surfwear",
+      "category": "fashion",
+      "views": 208500000,
+      "score": 80,
+      "country_id": "1fba6671-63c6-4f49-a05c-6dcbd113b27f",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "aesop",
+      "category": "brands",
+      "views": 365000000,
+      "score": 80,
+      "country_id": "1fba6671-63c6-4f49-a05c-6dcbd113b27f",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "cottonon",
+      "category": "brands",
+      "views": 1100000000,
+      "score": 95,
+      "country_id": "1fba6671-63c6-4f49-a05c-6dcbd113b27f",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    }
+  ],
+  "BD": [],
+  "BR": [
+    {
+      "hashtag": "brazilianfood",
+      "category": "food",
+      "views": 756400000,
+      "score": 90,
+      "country_id": "b68f5290-0456-4155-8cfa-9044b02cad76",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "acaibowl",
+      "category": "food",
+      "views": 3700000000,
+      "score": 95,
+      "country_id": "b68f5290-0456-4155-8cfa-9044b02cad76",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "brigadeiro",
+      "category": "food",
+      "views": 6700000000,
+      "score": 95,
+      "country_id": "b68f5290-0456-4155-8cfa-9044b02cad76",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "coxinha",
+      "category": "food",
+      "views": 3500000000,
+      "score": 95,
+      "country_id": "b68f5290-0456-4155-8cfa-9044b02cad76",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "feijoada",
+      "category": "food",
+      "views": 1000000000,
+      "score": 95,
+      "country_id": "b68f5290-0456-4155-8cfa-9044b02cad76",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "brazilianfashion",
+      "category": "fashion",
+      "views": 9900000,
+      "score": 45,
+      "country_id": "b68f5290-0456-4155-8cfa-9044b02cad76",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "havaianas",
+      "category": "fashion",
+      "views": 2800000000,
+      "score": 95,
+      "country_id": "b68f5290-0456-4155-8cfa-9044b02cad76",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "natura",
+      "category": "brands",
+      "views": 13900000000,
+      "score": 100,
+      "country_id": "b68f5290-0456-4155-8cfa-9044b02cad76",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "oboticario",
+      "category": "brands",
+      "views": 17600000000,
+      "score": 100,
+      "country_id": "b68f5290-0456-4155-8cfa-9044b02cad76",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "havaianas",
+      "category": "brands",
+      "views": 2800000000,
+      "score": 95,
+      "country_id": "b68f5290-0456-4155-8cfa-9044b02cad76",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "braziliandance",
+      "category": "challenge",
+      "views": 894700000,
+      "score": 90,
+      "country_id": "b68f5290-0456-4155-8cfa-9044b02cad76",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    },
+    {
+      "hashtag": "samba",
+      "category": "challenge",
+      "views": 29100000000,
+      "score": 100,
+      "country_id": "b68f5290-0456-4155-8cfa-9044b02cad76",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    },
+    {
+      "hashtag": "funkbrasil",
+      "category": "challenge",
+      "views": 17900000000,
+      "score": 100,
+      "country_id": "b68f5290-0456-4155-8cfa-9044b02cad76",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    }
+  ],
+  "CA": [
+    {
+      "hashtag": "canadianfood",
+      "category": "food",
+      "views": 169500000,
+      "score": 80,
+      "country_id": "6ec60477-0901-48b4-8d49-7c1933015eb3",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "poutine",
+      "category": "food",
+      "views": 6500000000,
+      "score": 95,
+      "country_id": "6ec60477-0901-48b4-8d49-7c1933015eb3",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "maplesyrup",
+      "category": "food",
+      "views": 1700000000,
+      "score": 95,
+      "country_id": "6ec60477-0901-48b4-8d49-7c1933015eb3",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "beavertails",
+      "category": "food",
+      "views": 67200000,
+      "score": 70,
+      "country_id": "6ec60477-0901-48b4-8d49-7c1933015eb3",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "koreanskincare",
+      "category": "products",
+      "views": 67500000000,
+      "score": 100,
+      "country_id": "6ec60477-0901-48b4-8d49-7c1933015eb3",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    }
+  ],
+  "CN": [
+    {
+      "hashtag": "chinesefood",
+      "category": "food",
+      "views": 50100000000,
+      "score": 100,
+      "country_id": "514427b2-9b81-4a1b-a1f2-95950a9e2686",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "chinesestreetfood",
+      "category": "food",
+      "views": 461500000,
+      "score": 80,
+      "country_id": "514427b2-9b81-4a1b-a1f2-95950a9e2686",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "hotpot",
+      "category": "food",
+      "views": 12500000000,
+      "score": 100,
+      "country_id": "514427b2-9b81-4a1b-a1f2-95950a9e2686",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "boba",
+      "category": "food",
+      "views": 23200000000,
+      "score": 100,
+      "country_id": "514427b2-9b81-4a1b-a1f2-95950a9e2686",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "dimsum",
+      "category": "food",
+      "views": 7200000000,
+      "score": 95,
+      "country_id": "514427b2-9b81-4a1b-a1f2-95950a9e2686",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "mooncake",
+      "category": "food",
+      "views": 1100000000,
+      "score": 95,
+      "country_id": "514427b2-9b81-4a1b-a1f2-95950a9e2686",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "chinesefashion",
+      "category": "fashion",
+      "views": 1200000000,
+      "score": 95,
+      "country_id": "514427b2-9b81-4a1b-a1f2-95950a9e2686",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "hanfu",
+      "category": "fashion",
+      "views": 4100000000,
+      "score": 95,
+      "country_id": "514427b2-9b81-4a1b-a1f2-95950a9e2686",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "guochao",
+      "category": "fashion",
+      "views": 1100000,
+      "score": 45,
+      "country_id": "514427b2-9b81-4a1b-a1f2-95950a9e2686",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "shein",
+      "category": "brands",
+      "views": 169500000000,
+      "score": 100,
+      "country_id": "514427b2-9b81-4a1b-a1f2-95950a9e2686",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "temu",
+      "category": "brands",
+      "views": 191600000000,
+      "score": 100,
+      "country_id": "514427b2-9b81-4a1b-a1f2-95950a9e2686",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "kans",
+      "category": "brands",
+      "views": 252400000,
+      "score": 80,
+      "country_id": "514427b2-9b81-4a1b-a1f2-95950a9e2686",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "proya",
+      "category": "brands",
+      "views": 26700000,
+      "score": 60,
+      "country_id": "514427b2-9b81-4a1b-a1f2-95950a9e2686",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "funnyelves",
+      "category": "brands",
+      "views": 236500000,
+      "score": 80,
+      "country_id": "514427b2-9b81-4a1b-a1f2-95950a9e2686",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "douyinviral",
+      "category": "products",
+      "views": 20000000,
+      "score": 60,
+      "country_id": "514427b2-9b81-4a1b-a1f2-95950a9e2686",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    }
+  ],
+  "CO": [
+    {
+      "hashtag": "colombianfood",
+      "category": "food",
+      "views": 573300000,
+      "score": 90,
+      "country_id": "c7a4bc0c-3cc9-47c6-870b-ef03497b06fe",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "arepa",
+      "category": "food",
+      "views": 2400000000,
+      "score": 95,
+      "country_id": "c7a4bc0c-3cc9-47c6-870b-ef03497b06fe",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "cumbiaremix",
+      "category": "challenge",
+      "views": 16500000,
+      "score": 60,
+      "country_id": "c7a4bc0c-3cc9-47c6-870b-ef03497b06fe",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    }
+  ],
+  "DE": [
+    {
+      "hashtag": "germanfood",
+      "category": "food",
+      "views": 763100000,
+      "score": 90,
+      "country_id": "5fcac716-e123-4a01-927f-eeef6e140d7d",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "pretzel",
+      "category": "food",
+      "views": 983000000,
+      "score": 90,
+      "country_id": "5fcac716-e123-4a01-927f-eeef6e140d7d",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "currywurst",
+      "category": "food",
+      "views": 408500000,
+      "score": 80,
+      "country_id": "5fcac716-e123-4a01-927f-eeef6e140d7d",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "doner",
+      "category": "food",
+      "views": 3700000000,
+      "score": 95,
+      "country_id": "5fcac716-e123-4a01-927f-eeef6e140d7d",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "germanfashion",
+      "category": "fashion",
+      "views": 46300000,
+      "score": 60,
+      "country_id": "5fcac716-e123-4a01-927f-eeef6e140d7d",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "berlinstreetfashion",
+      "category": "fashion",
+      "views": 272700,
+      "score": 30,
+      "country_id": "5fcac716-e123-4a01-927f-eeef6e140d7d",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "lidl",
+      "category": "brands",
+      "views": 28500000000,
+      "score": 100,
+      "country_id": "5fcac716-e123-4a01-927f-eeef6e140d7d",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "aldi",
+      "category": "brands",
+      "views": 17400000000,
+      "score": 100,
+      "country_id": "5fcac716-e123-4a01-927f-eeef6e140d7d",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "nivea",
+      "category": "brands",
+      "views": 24600000000,
+      "score": 100,
+      "country_id": "5fcac716-e123-4a01-927f-eeef6e140d7d",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "philips",
+      "category": "brands",
+      "views": 5600000000,
+      "score": 95,
+      "country_id": "5fcac716-e123-4a01-927f-eeef6e140d7d",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "jonrvacuum",
+      "category": "products",
+      "views": 2700000,
+      "score": 45,
+      "country_id": "5fcac716-e123-4a01-927f-eeef6e140d7d",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    }
+  ],
+  "DO": [],
+  "ES": [
+    {
+      "hashtag": "spanishfood",
+      "category": "food",
+      "views": 1100000000,
+      "score": 95,
+      "country_id": "2d18b4ed-0c6f-428e-ba11-be2b95a3252d",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "tapas",
+      "category": "food",
+      "views": 2900000000,
+      "score": 95,
+      "country_id": "2d18b4ed-0c6f-428e-ba11-be2b95a3252d",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "churros",
+      "category": "food",
+      "views": 8900000000,
+      "score": 95,
+      "country_id": "2d18b4ed-0c6f-428e-ba11-be2b95a3252d",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "paella",
+      "category": "food",
+      "views": 2800000000,
+      "score": 95,
+      "country_id": "2d18b4ed-0c6f-428e-ba11-be2b95a3252d",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "spanishfashion",
+      "category": "fashion",
+      "views": 27600000,
+      "score": 60,
+      "country_id": "2d18b4ed-0c6f-428e-ba11-be2b95a3252d",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "zarastyle",
+      "category": "fashion",
+      "views": 1200000000,
+      "score": 95,
+      "country_id": "2d18b4ed-0c6f-428e-ba11-be2b95a3252d",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "zara",
+      "category": "brands",
+      "views": 74200000000,
+      "score": 100,
+      "country_id": "2d18b4ed-0c6f-428e-ba11-be2b95a3252d",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "mango",
+      "category": "brands",
+      "views": 31100000000,
+      "score": 100,
+      "country_id": "2d18b4ed-0c6f-428e-ba11-be2b95a3252d",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "mercadona",
+      "category": "brands",
+      "views": 11800000000,
+      "score": 100,
+      "country_id": "2d18b4ed-0c6f-428e-ba11-be2b95a3252d",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    }
+  ],
+  "ET": [],
+  "FJ": [],
+  "FR": [
+    {
+      "hashtag": "frenchfood",
+      "category": "food",
+      "views": 2100000000,
+      "score": 95,
+      "country_id": "f25e479a-b039-4473-9650-05cdcd9d66e1",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "croissant",
+      "category": "food",
+      "views": 14600000000,
+      "score": 100,
+      "country_id": "f25e479a-b039-4473-9650-05cdcd9d66e1",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "frenchpastry",
+      "category": "food",
+      "views": 744200000,
+      "score": 90,
+      "country_id": "f25e479a-b039-4473-9650-05cdcd9d66e1",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "pistachio",
+      "category": "food",
+      "views": 8400000000,
+      "score": 95,
+      "country_id": "f25e479a-b039-4473-9650-05cdcd9d66e1",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "frenchfashion",
+      "category": "fashion",
+      "views": 163700000,
+      "score": 80,
+      "country_id": "f25e479a-b039-4473-9650-05cdcd9d66e1",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "parisianstyle",
+      "category": "fashion",
+      "views": 3100000000,
+      "score": 95,
+      "country_id": "f25e479a-b039-4473-9650-05cdcd9d66e1",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "jacquemus",
+      "category": "fashion",
+      "views": 3700000000,
+      "score": 95,
+      "country_id": "f25e479a-b039-4473-9650-05cdcd9d66e1",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "jacquemus",
+      "category": "brands",
+      "views": 3700000000,
+      "score": 95,
+      "country_id": "f25e479a-b039-4473-9650-05cdcd9d66e1",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "dior",
+      "category": "brands",
+      "views": 47700000000,
+      "score": 100,
+      "country_id": "f25e479a-b039-4473-9650-05cdcd9d66e1",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "loreal",
+      "category": "brands",
+      "views": 9900000000,
+      "score": 95,
+      "country_id": "f25e479a-b039-4473-9650-05cdcd9d66e1",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "moulinex",
+      "category": "products",
+      "views": 722700000,
+      "score": 90,
+      "country_id": "f25e479a-b039-4473-9650-05cdcd9d66e1",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    }
+  ],
+  "GB": [
+    {
+      "hashtag": "ukfood",
+      "category": "food",
+      "views": 4500000000,
+      "score": 95,
+      "country_id": "049dccb4-a656-4a52-a456-30fb235334c1",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "britishfood",
+      "category": "food",
+      "views": 3300000000,
+      "score": 95,
+      "country_id": "049dccb4-a656-4a52-a456-30fb235334c1",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "donerkebab",
+      "category": "food",
+      "views": 3900000000,
+      "score": 95,
+      "country_id": "049dccb4-a656-4a52-a456-30fb235334c1",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "biscoff",
+      "category": "food",
+      "views": 6400000000,
+      "score": 95,
+      "country_id": "049dccb4-a656-4a52-a456-30fb235334c1",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "greggs",
+      "category": "food",
+      "views": 1600000000,
+      "score": 95,
+      "country_id": "049dccb4-a656-4a52-a456-30fb235334c1",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "ukfashion",
+      "category": "fashion",
+      "views": 4300000000,
+      "score": 95,
+      "country_id": "049dccb4-a656-4a52-a456-30fb235334c1",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "primark",
+      "category": "fashion",
+      "views": 18500000000,
+      "score": 100,
+      "country_id": "049dccb4-a656-4a52-a456-30fb235334c1",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "britishstyle",
+      "category": "fashion",
+      "views": 672800000,
+      "score": 90,
+      "country_id": "049dccb4-a656-4a52-a456-30fb235334c1",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "greggs",
+      "category": "brands",
+      "views": 1600000000,
+      "score": 95,
+      "country_id": "049dccb4-a656-4a52-a456-30fb235334c1",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "primark",
+      "category": "brands",
+      "views": 18500000000,
+      "score": 100,
+      "country_id": "049dccb4-a656-4a52-a456-30fb235334c1",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "marksandspencer",
+      "category": "brands",
+      "views": 2300000000,
+      "score": 95,
+      "country_id": "049dccb4-a656-4a52-a456-30fb235334c1",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "drdent",
+      "category": "products",
+      "views": 2200000000,
+      "score": 95,
+      "country_id": "049dccb4-a656-4a52-a456-30fb235334c1",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    },
+    {
+      "hashtag": "umay",
+      "category": "products",
+      "views": 1000000000,
+      "score": 95,
+      "country_id": "049dccb4-a656-4a52-a456-30fb235334c1",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    }
+  ],
+  "GH": [],
+  "GR": [],
+  "GT": [],
+  "HK": [],
+  "HN": [],
+  "ID": [
+    {
+      "hashtag": "indonesianfood",
+      "category": "food",
+      "views": 4500000000,
+      "score": 95,
+      "country_id": "353799bf-5c9e-4e15-bd92-2103bb73cee3",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "nasigoreng",
+      "category": "food",
+      "views": 6000000000,
+      "score": 95,
+      "country_id": "353799bf-5c9e-4e15-bd92-2103bb73cee3",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "indomie",
+      "category": "food",
+      "views": 10300000000,
+      "score": 100,
+      "country_id": "353799bf-5c9e-4e15-bd92-2103bb73cee3",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "rendang",
+      "category": "food",
+      "views": 3600000000,
+      "score": 95,
+      "country_id": "353799bf-5c9e-4e15-bd92-2103bb73cee3",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "satay",
+      "category": "food",
+      "views": 437100000,
+      "score": 80,
+      "country_id": "353799bf-5c9e-4e15-bd92-2103bb73cee3",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "hijabfashion",
+      "category": "fashion",
+      "views": 8700000000,
+      "score": 95,
+      "country_id": "353799bf-5c9e-4e15-bd92-2103bb73cee3",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "indonesianfashion",
+      "category": "fashion",
+      "views": 12000000,
+      "score": 60,
+      "country_id": "353799bf-5c9e-4e15-bd92-2103bb73cee3",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "modestfashion",
+      "category": "fashion",
+      "views": 21200000000,
+      "score": 100,
+      "country_id": "353799bf-5c9e-4e15-bd92-2103bb73cee3",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "wardah",
+      "category": "brands",
+      "views": 9500000000,
+      "score": 95,
+      "country_id": "353799bf-5c9e-4e15-bd92-2103bb73cee3",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "somethinc",
+      "category": "brands",
+      "views": 6800000000,
+      "score": 95,
+      "country_id": "353799bf-5c9e-4e15-bd92-2103bb73cee3",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "shopee",
+      "category": "brands",
+      "views": 53100000000,
+      "score": 100,
+      "country_id": "353799bf-5c9e-4e15-bd92-2103bb73cee3",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    }
+  ],
+  "IL": [
+    {
+      "hashtag": "israelifood",
+      "category": "food",
+      "views": 86500000,
+      "score": 70,
+      "country_id": "6db748aa-4721-4438-8767-231919bbba85",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "falafel",
+      "category": "food",
+      "views": 1700000000,
+      "score": 95,
+      "country_id": "6db748aa-4721-4438-8767-231919bbba85",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "hummus",
+      "category": "food",
+      "views": 2400000000,
+      "score": 95,
+      "country_id": "6db748aa-4721-4438-8767-231919bbba85",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "shakshuka",
+      "category": "food",
+      "views": 654400000,
+      "score": 90,
+      "country_id": "6db748aa-4721-4438-8767-231919bbba85",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "sabich",
+      "category": "food",
+      "views": 10700000,
+      "score": 60,
+      "country_id": "6db748aa-4721-4438-8767-231919bbba85",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    }
+  ],
+  "IN": [
+    {
+      "hashtag": "indianfood",
+      "category": "food",
+      "views": 32100000000,
+      "score": 100,
+      "country_id": "35647959-6860-4d5b-8286-211210329bd2",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "indianstreetfood",
+      "category": "food",
+      "views": 13100000000,
+      "score": 100,
+      "country_id": "35647959-6860-4d5b-8286-211210329bd2",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "biryani",
+      "category": "food",
+      "views": 7200000000,
+      "score": 95,
+      "country_id": "35647959-6860-4d5b-8286-211210329bd2",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "chai",
+      "category": "food",
+      "views": 10900000000,
+      "score": 100,
+      "country_id": "35647959-6860-4d5b-8286-211210329bd2",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "panipuri",
+      "category": "food",
+      "views": 6500000000,
+      "score": 95,
+      "country_id": "35647959-6860-4d5b-8286-211210329bd2",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "dosa",
+      "category": "food",
+      "views": 2700000000,
+      "score": 95,
+      "country_id": "35647959-6860-4d5b-8286-211210329bd2",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "indianfashion",
+      "category": "fashion",
+      "views": 1900000000,
+      "score": 95,
+      "country_id": "35647959-6860-4d5b-8286-211210329bd2",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "saree",
+      "category": "fashion",
+      "views": 16500000000,
+      "score": 100,
+      "country_id": "35647959-6860-4d5b-8286-211210329bd2",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "lehengacholi",
+      "category": "fashion",
+      "views": 551600000,
+      "score": 90,
+      "country_id": "35647959-6860-4d5b-8286-211210329bd2",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "nykaa",
+      "category": "brands",
+      "views": 379500000,
+      "score": 80,
+      "country_id": "35647959-6860-4d5b-8286-211210329bd2",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "mamaearth",
+      "category": "brands",
+      "views": 220900000,
+      "score": 80,
+      "country_id": "35647959-6860-4d5b-8286-211210329bd2",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "tata",
+      "category": "brands",
+      "views": 20200000000,
+      "score": 100,
+      "country_id": "35647959-6860-4d5b-8286-211210329bd2",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "indianbeauty",
+      "category": "products",
+      "views": 234800000,
+      "score": 80,
+      "country_id": "35647959-6860-4d5b-8286-211210329bd2",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    },
+    {
+      "hashtag": "bollywooddance",
+      "category": "challenge",
+      "views": 21500000000,
+      "score": 100,
+      "country_id": "35647959-6860-4d5b-8286-211210329bd2",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    },
+    {
+      "hashtag": "punjabidancechallenge",
+      "category": "challenge",
+      "views": 83500,
+      "score": 15,
+      "country_id": "35647959-6860-4d5b-8286-211210329bd2",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    }
+  ],
+  "IS": [],
+  "IT": [
+    {
+      "hashtag": "italianfood",
+      "category": "food",
+      "views": 26300000000,
+      "score": 100,
+      "country_id": "cca49c7f-2498-49a7-824e-356deabc4dc9",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "pasta",
+      "category": "food",
+      "views": 91000000000,
+      "score": 100,
+      "country_id": "cca49c7f-2498-49a7-824e-356deabc4dc9",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "pizza",
+      "category": "food",
+      "views": 162100000000,
+      "score": 100,
+      "country_id": "cca49c7f-2498-49a7-824e-356deabc4dc9",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "gelato",
+      "category": "food",
+      "views": 9800000000,
+      "score": 95,
+      "country_id": "cca49c7f-2498-49a7-824e-356deabc4dc9",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "aperolspritz",
+      "category": "food",
+      "views": 2000000000,
+      "score": 95,
+      "country_id": "cca49c7f-2498-49a7-824e-356deabc4dc9",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "pistachio",
+      "category": "food",
+      "views": 8400000000,
+      "score": 95,
+      "country_id": "cca49c7f-2498-49a7-824e-356deabc4dc9",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "italianfashion",
+      "category": "fashion",
+      "views": 1500000000,
+      "score": 95,
+      "country_id": "cca49c7f-2498-49a7-824e-356deabc4dc9",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "madeinitaly",
+      "category": "fashion",
+      "views": 6500000000,
+      "score": 95,
+      "country_id": "cca49c7f-2498-49a7-824e-356deabc4dc9",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "milanfashion",
+      "category": "fashion",
+      "views": 185200000,
+      "score": 80,
+      "country_id": "cca49c7f-2498-49a7-824e-356deabc4dc9",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "lavazza",
+      "category": "brands",
+      "views": 441000000,
+      "score": 80,
+      "country_id": "cca49c7f-2498-49a7-824e-356deabc4dc9",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "aperol",
+      "category": "brands",
+      "views": 1500000000,
+      "score": 95,
+      "country_id": "cca49c7f-2498-49a7-824e-356deabc4dc9",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "diesel",
+      "category": "brands",
+      "views": 47600000000,
+      "score": 100,
+      "country_id": "cca49c7f-2498-49a7-824e-356deabc4dc9",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "loewe",
+      "category": "brands",
+      "views": 4000000000,
+      "score": 95,
+      "country_id": "cca49c7f-2498-49a7-824e-356deabc4dc9",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    }
+  ],
+  "JM": [],
+  "JP": [
+    {
+      "hashtag": "japanfood",
+      "category": "food",
+      "views": 6900000000,
+      "score": 95,
+      "country_id": "a2ff70c1-321e-4960-8220-8fe265c8dc0a",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "japanstreetfood",
+      "category": "food",
+      "views": 217400000,
+      "score": 80,
+      "country_id": "a2ff70c1-321e-4960-8220-8fe265c8dc0a",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "japanesesnack",
+      "category": "food",
+      "views": 128200000,
+      "score": 80,
+      "country_id": "a2ff70c1-321e-4960-8220-8fe265c8dc0a",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "onigiri",
+      "category": "food",
+      "views": 3300000000,
+      "score": 95,
+      "country_id": "a2ff70c1-321e-4960-8220-8fe265c8dc0a",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "takoyaki",
+      "category": "food",
+      "views": 2700000000,
+      "score": 95,
+      "country_id": "a2ff70c1-321e-4960-8220-8fe265c8dc0a",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "mochi",
+      "category": "food",
+      "views": 23100000000,
+      "score": 100,
+      "country_id": "a2ff70c1-321e-4960-8220-8fe265c8dc0a",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "japanesecheesecake",
+      "category": "food",
+      "views": 1000000000,
+      "score": 95,
+      "country_id": "a2ff70c1-321e-4960-8220-8fe265c8dc0a",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "matcha",
+      "category": "food",
+      "views": 49300000000,
+      "score": 100,
+      "country_id": "a2ff70c1-321e-4960-8220-8fe265c8dc0a",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "japanesefashion",
+      "category": "fashion",
+      "views": 1600000000,
+      "score": 95,
+      "country_id": "a2ff70c1-321e-4960-8220-8fe265c8dc0a",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "harajuku",
+      "category": "fashion",
+      "views": 3100000000,
+      "score": 95,
+      "country_id": "a2ff70c1-321e-4960-8220-8fe265c8dc0a",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "gyaru",
+      "category": "fashion",
+      "views": 10300000000,
+      "score": 100,
+      "country_id": "a2ff70c1-321e-4960-8220-8fe265c8dc0a",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "dreamcoreaesthetic",
+      "category": "fashion",
+      "views": 1400000000,
+      "score": 95,
+      "country_id": "a2ff70c1-321e-4960-8220-8fe265c8dc0a",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "uniqlo",
+      "category": "brands",
+      "views": 12600000000,
+      "score": 100,
+      "country_id": "a2ff70c1-321e-4960-8220-8fe265c8dc0a",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "muji",
+      "category": "brands",
+      "views": 2100000000,
+      "score": 95,
+      "country_id": "a2ff70c1-321e-4960-8220-8fe265c8dc0a",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "shiseido",
+      "category": "brands",
+      "views": 1400000000,
+      "score": 95,
+      "country_id": "a2ff70c1-321e-4960-8220-8fe265c8dc0a",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "itsu",
+      "category": "brands",
+      "views": 294300000,
+      "score": 80,
+      "country_id": "a2ff70c1-321e-4960-8220-8fe265c8dc0a",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "japanbeauty",
+      "category": "products",
+      "views": 193500000,
+      "score": 80,
+      "country_id": "a2ff70c1-321e-4960-8220-8fe265c8dc0a",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    },
+    {
+      "hashtag": "japangadget",
+      "category": "products",
+      "views": 88600,
+      "score": 15,
+      "country_id": "a2ff70c1-321e-4960-8220-8fe265c8dc0a",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    },
+    {
+      "hashtag": "jetjetdance",
+      "category": "challenge",
+      "views": 2295,
+      "score": 5,
+      "country_id": "a2ff70c1-321e-4960-8220-8fe265c8dc0a",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    }
+  ],
+  "KE": [
+    {
+      "hashtag": "kenyanfood",
+      "category": "food",
+      "views": 469100000,
+      "score": 80,
+      "country_id": "2edc446f-4c52-456e-b16f-6b5db5dc920a",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "ugali",
+      "category": "food",
+      "views": 475500000,
+      "score": 80,
+      "country_id": "2edc446f-4c52-456e-b16f-6b5db5dc920a",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "nyamachoma",
+      "category": "food",
+      "views": 153100000,
+      "score": 80,
+      "country_id": "2edc446f-4c52-456e-b16f-6b5db5dc920a",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "chapati",
+      "category": "food",
+      "views": 1200000000,
+      "score": 95,
+      "country_id": "2edc446f-4c52-456e-b16f-6b5db5dc920a",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    }
+  ],
+  "KR": [
+    {
+      "hashtag": "kfood",
+      "category": "food",
+      "views": 4200000000,
+      "score": 95,
+      "country_id": "2ac73bcd-2a75-47b1-a9f4-dc3171c9d4c2",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "koreanfood",
+      "category": "food",
+      "views": 57000000000,
+      "score": 100,
+      "country_id": "2ac73bcd-2a75-47b1-a9f4-dc3171c9d4c2",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "tteokbokki",
+      "category": "food",
+      "views": 7600000000,
+      "score": 95,
+      "country_id": "2ac73bcd-2a75-47b1-a9f4-dc3171c9d4c2",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "buldak",
+      "category": "food",
+      "views": 22600000000,
+      "score": 100,
+      "country_id": "2ac73bcd-2a75-47b1-a9f4-dc3171c9d4c2",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "dujjonku",
+      "category": "food",
+      "views": 4900000,
+      "score": 45,
+      "country_id": "2ac73bcd-2a75-47b1-a9f4-dc3171c9d4c2",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "tanghulu",
+      "category": "food",
+      "views": 6700000000,
+      "score": 95,
+      "country_id": "2ac73bcd-2a75-47b1-a9f4-dc3171c9d4c2",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "hotteok",
+      "category": "food",
+      "views": 443900000,
+      "score": 80,
+      "country_id": "2ac73bcd-2a75-47b1-a9f4-dc3171c9d4c2",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "kimchi",
+      "category": "food",
+      "views": 12300000000,
+      "score": 100,
+      "country_id": "2ac73bcd-2a75-47b1-a9f4-dc3171c9d4c2",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "koreanramen",
+      "category": "food",
+      "views": 795100000,
+      "score": 90,
+      "country_id": "2ac73bcd-2a75-47b1-a9f4-dc3171c9d4c2",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "yakgwa",
+      "category": "food",
+      "views": 54200000,
+      "score": 70,
+      "country_id": "2ac73bcd-2a75-47b1-a9f4-dc3171c9d4c2",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "koreanfashion",
+      "category": "fashion",
+      "views": 2500000000,
+      "score": 95,
+      "country_id": "2ac73bcd-2a75-47b1-a9f4-dc3171c9d4c2",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "kfashion",
+      "category": "fashion",
+      "views": 1100000000,
+      "score": 95,
+      "country_id": "2ac73bcd-2a75-47b1-a9f4-dc3171c9d4c2",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "kbeauty",
+      "category": "fashion",
+      "views": 73200000000,
+      "score": 100,
+      "country_id": "2ac73bcd-2a75-47b1-a9f4-dc3171c9d4c2",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "ulzzang",
+      "category": "fashion",
+      "views": 2700000000,
+      "score": 95,
+      "country_id": "2ac73bcd-2a75-47b1-a9f4-dc3171c9d4c2",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "hanbok",
+      "category": "fashion",
+      "views": 1300000000,
+      "score": 95,
+      "country_id": "2ac73bcd-2a75-47b1-a9f4-dc3171c9d4c2",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "oliveyoung",
+      "category": "brands",
+      "views": 4300000000,
+      "score": 95,
+      "country_id": "2ac73bcd-2a75-47b1-a9f4-dc3171c9d4c2",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "fwee",
+      "category": "brands",
+      "views": 2500000000,
+      "score": 95,
+      "country_id": "2ac73bcd-2a75-47b1-a9f4-dc3171c9d4c2",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "clio",
+      "category": "brands",
+      "views": 5200000000,
+      "score": 95,
+      "country_id": "2ac73bcd-2a75-47b1-a9f4-dc3171c9d4c2",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "innisfree",
+      "category": "brands",
+      "views": 2800000000,
+      "score": 95,
+      "country_id": "2ac73bcd-2a75-47b1-a9f4-dc3171c9d4c2",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "musinsa",
+      "category": "brands",
+      "views": 126200000,
+      "score": 80,
+      "country_id": "2ac73bcd-2a75-47b1-a9f4-dc3171c9d4c2",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "kbeautyviral",
+      "category": "products",
+      "views": 48600000,
+      "score": 60,
+      "country_id": "2ac73bcd-2a75-47b1-a9f4-dc3171c9d4c2",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    },
+    {
+      "hashtag": "koreanskincare",
+      "category": "products",
+      "views": 67500000000,
+      "score": 100,
+      "country_id": "2ac73bcd-2a75-47b1-a9f4-dc3171c9d4c2",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    },
+    {
+      "hashtag": "kpopchallenge",
+      "category": "challenge",
+      "views": 1900000000,
+      "score": 95,
+      "country_id": "2ac73bcd-2a75-47b1-a9f4-dc3171c9d4c2",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    },
+    {
+      "hashtag": "koreachallenge",
+      "category": "challenge",
+      "views": 4700000,
+      "score": 45,
+      "country_id": "2ac73bcd-2a75-47b1-a9f4-dc3171c9d4c2",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    }
+  ],
+  "KZ": [],
+  "LB": [],
+  "MA": [],
+  "MM": [],
+  "MX": [
+    {
+      "hashtag": "mexicanfood",
+      "category": "food",
+      "views": 35600000000,
+      "score": 100,
+      "country_id": "16875bb4-75e0-4d1f-9e97-fa620ccd0c74",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "tacos",
+      "category": "food",
+      "views": 56000000000,
+      "score": 100,
+      "country_id": "16875bb4-75e0-4d1f-9e97-fa620ccd0c74",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "birria",
+      "category": "food",
+      "views": 10100000000,
+      "score": 100,
+      "country_id": "16875bb4-75e0-4d1f-9e97-fa620ccd0c74",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "elote",
+      "category": "food",
+      "views": 5000000000,
+      "score": 95,
+      "country_id": "16875bb4-75e0-4d1f-9e97-fa620ccd0c74",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "tamales",
+      "category": "food",
+      "views": 8300000000,
+      "score": 95,
+      "country_id": "16875bb4-75e0-4d1f-9e97-fa620ccd0c74",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "churros",
+      "category": "food",
+      "views": 8900000000,
+      "score": 95,
+      "country_id": "16875bb4-75e0-4d1f-9e97-fa620ccd0c74",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "mexicanfashion",
+      "category": "fashion",
+      "views": 60900000,
+      "score": 70,
+      "country_id": "16875bb4-75e0-4d1f-9e97-fa620ccd0c74",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "bimbo",
+      "category": "brands",
+      "views": 5900000000,
+      "score": 95,
+      "country_id": "16875bb4-75e0-4d1f-9e97-fa620ccd0c74",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "corona",
+      "category": "brands",
+      "views": 34700000000,
+      "score": 100,
+      "country_id": "16875bb4-75e0-4d1f-9e97-fa620ccd0c74",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    }
+  ],
+  "MY": [
+    {
+      "hashtag": "malaysianfood",
+      "category": "food",
+      "views": 3000000000,
+      "score": 95,
+      "country_id": "bfd7b937-c6df-4090-9fde-e1a9285d513a",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "nasilemak",
+      "category": "food",
+      "views": 3000000000,
+      "score": 95,
+      "country_id": "bfd7b937-c6df-4090-9fde-e1a9285d513a",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "tehtarik",
+      "category": "food",
+      "views": 490300000,
+      "score": 80,
+      "country_id": "bfd7b937-c6df-4090-9fde-e1a9285d513a",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "rendang",
+      "category": "food",
+      "views": 3600000000,
+      "score": 95,
+      "country_id": "bfd7b937-c6df-4090-9fde-e1a9285d513a",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "rotikanai",
+      "category": "food",
+      "views": 5737,
+      "score": 5,
+      "country_id": "bfd7b937-c6df-4090-9fde-e1a9285d513a",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "malaysianfashion",
+      "category": "fashion",
+      "views": 30200000,
+      "score": 60,
+      "country_id": "bfd7b937-c6df-4090-9fde-e1a9285d513a",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "hijabmalaysia",
+      "category": "fashion",
+      "views": 488200000,
+      "score": 80,
+      "country_id": "bfd7b937-c6df-4090-9fde-e1a9285d513a",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    }
+  ],
+  "NG": [
+    {
+      "hashtag": "nigerianfood",
+      "category": "food",
+      "views": 4600000000,
+      "score": 95,
+      "country_id": "5d0f62ec-6969-45c0-853d-93203ebabfea",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "jollofrice",
+      "category": "food",
+      "views": 1700000000,
+      "score": 95,
+      "country_id": "5d0f62ec-6969-45c0-853d-93203ebabfea",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "suya",
+      "category": "food",
+      "views": 498600000,
+      "score": 80,
+      "country_id": "5d0f62ec-6969-45c0-853d-93203ebabfea",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "puffpuff",
+      "category": "food",
+      "views": 382000000,
+      "score": 80,
+      "country_id": "5d0f62ec-6969-45c0-853d-93203ebabfea",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "egusisoup",
+      "category": "food",
+      "views": 1400000000,
+      "score": 95,
+      "country_id": "5d0f62ec-6969-45c0-853d-93203ebabfea",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "ankarafashion",
+      "category": "fashion",
+      "views": 941600000,
+      "score": 90,
+      "country_id": "5d0f62ec-6969-45c0-853d-93203ebabfea",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "africanfashion",
+      "category": "fashion",
+      "views": 1700000000,
+      "score": 95,
+      "country_id": "5d0f62ec-6969-45c0-853d-93203ebabfea",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    }
+  ],
+  "NL": [
+    {
+      "hashtag": "dutchfood",
+      "category": "food",
+      "views": 403400000,
+      "score": 80,
+      "country_id": "5bdad9ca-5f02-4563-9a54-d83c06f3ff67",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "stroopwafel",
+      "category": "food",
+      "views": 517400000,
+      "score": 90,
+      "country_id": "5bdad9ca-5f02-4563-9a54-d83c06f3ff67",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "bitterballen",
+      "category": "food",
+      "views": 89200000,
+      "score": 70,
+      "country_id": "5bdad9ca-5f02-4563-9a54-d83c06f3ff67",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "poffertjes",
+      "category": "food",
+      "views": 197000000,
+      "score": 80,
+      "country_id": "5bdad9ca-5f02-4563-9a54-d83c06f3ff67",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "dutchfashion",
+      "category": "fashion",
+      "views": 18500000,
+      "score": 60,
+      "country_id": "5bdad9ca-5f02-4563-9a54-d83c06f3ff67",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    }
+  ],
+  "NZ": [],
+  "PH": [
+    {
+      "hashtag": "filipinofood",
+      "category": "food",
+      "views": 11000000000,
+      "score": 100,
+      "country_id": "e4e167e6-1dcb-4e70-96aa-458fcbad56d1",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "adobo",
+      "category": "food",
+      "views": 1800000000,
+      "score": 95,
+      "country_id": "e4e167e6-1dcb-4e70-96aa-458fcbad56d1",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "lechon",
+      "category": "food",
+      "views": 2000000000,
+      "score": 95,
+      "country_id": "e4e167e6-1dcb-4e70-96aa-458fcbad56d1",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "halo halo",
+      "category": "food",
+      "views": 652000000,
+      "score": 90,
+      "country_id": "e4e167e6-1dcb-4e70-96aa-458fcbad56d1",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "sisig",
+      "category": "food",
+      "views": 883900000,
+      "score": 90,
+      "country_id": "e4e167e6-1dcb-4e70-96aa-458fcbad56d1",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "filipinafashion",
+      "category": "fashion",
+      "views": 7500000,
+      "score": 45,
+      "country_id": "e4e167e6-1dcb-4e70-96aa-458fcbad56d1",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "modernfilipiniana",
+      "category": "fashion",
+      "views": 469400000,
+      "score": 80,
+      "country_id": "e4e167e6-1dcb-4e70-96aa-458fcbad56d1",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "sunniesface",
+      "category": "brands",
+      "views": 272700000,
+      "score": 80,
+      "country_id": "e4e167e6-1dcb-4e70-96aa-458fcbad56d1",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "jollibee",
+      "category": "brands",
+      "views": 16100000000,
+      "score": 100,
+      "country_id": "e4e167e6-1dcb-4e70-96aa-458fcbad56d1",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "hawakmoangbeat",
+      "category": "challenge",
+      "views": 149100000,
+      "score": 80,
+      "country_id": "e4e167e6-1dcb-4e70-96aa-458fcbad56d1",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    }
+  ],
+  "PK": [
+    {
+      "hashtag": "pakistanifood",
+      "category": "food",
+      "views": 6700000000,
+      "score": 95,
+      "country_id": "e5228808-5e54-4bed-bd90-e5b441932299",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "biryani",
+      "category": "food",
+      "views": 7200000000,
+      "score": 95,
+      "country_id": "e5228808-5e54-4bed-bd90-e5b441932299",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "nihari",
+      "category": "food",
+      "views": 391800000,
+      "score": 80,
+      "country_id": "e5228808-5e54-4bed-bd90-e5b441932299",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "seekhkebab",
+      "category": "food",
+      "views": 141000000,
+      "score": 80,
+      "country_id": "e5228808-5e54-4bed-bd90-e5b441932299",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "paratha",
+      "category": "food",
+      "views": 2300000000,
+      "score": 95,
+      "country_id": "e5228808-5e54-4bed-bd90-e5b441932299",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "pakistanifashion",
+      "category": "fashion",
+      "views": 11300000000,
+      "score": 100,
+      "country_id": "e5228808-5e54-4bed-bd90-e5b441932299",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "lehengacholi",
+      "category": "fashion",
+      "views": 551600000,
+      "score": 90,
+      "country_id": "e5228808-5e54-4bed-bd90-e5b441932299",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    }
+  ],
+  "RS": [],
+  "RU": [],
+  "SA": [
+    {
+      "hashtag": "saudifood",
+      "category": "food",
+      "views": 249300000,
+      "score": 80,
+      "country_id": "9a77d57b-9820-4287-9494-c960036b2548",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "kabsa",
+      "category": "food",
+      "views": 298300000,
+      "score": 80,
+      "country_id": "9a77d57b-9820-4287-9494-c960036b2548",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "dates",
+      "category": "food",
+      "views": 7200000000,
+      "score": 95,
+      "country_id": "9a77d57b-9820-4287-9494-c960036b2548",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "arabiccoffee",
+      "category": "food",
+      "views": 67400000,
+      "score": 70,
+      "country_id": "9a77d57b-9820-4287-9494-c960036b2548",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "saudifashion",
+      "category": "fashion",
+      "views": 183000000,
+      "score": 80,
+      "country_id": "9a77d57b-9820-4287-9494-c960036b2548",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "modestfashion",
+      "category": "fashion",
+      "views": 21200000000,
+      "score": 100,
+      "country_id": "9a77d57b-9820-4287-9494-c960036b2548",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "gissah",
+      "category": "brands",
+      "views": 198700000,
+      "score": 80,
+      "country_id": "9a77d57b-9820-4287-9494-c960036b2548",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    }
+  ],
+  "SG": [
+    {
+      "hashtag": "singaporefood",
+      "category": "food",
+      "views": 832700000,
+      "score": 90,
+      "country_id": "375cfcb3-e327-4a54-a3df-224bc955ac27",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "chickennoodle",
+      "category": "food",
+      "views": 84200000,
+      "score": 70,
+      "country_id": "375cfcb3-e327-4a54-a3df-224bc955ac27",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "laksa",
+      "category": "food",
+      "views": 617600000,
+      "score": 90,
+      "country_id": "375cfcb3-e327-4a54-a3df-224bc955ac27",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "kayatoast",
+      "category": "food",
+      "views": 122800000,
+      "score": 80,
+      "country_id": "375cfcb3-e327-4a54-a3df-224bc955ac27",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "chilicrab",
+      "category": "food",
+      "views": 73600000,
+      "score": 70,
+      "country_id": "375cfcb3-e327-4a54-a3df-224bc955ac27",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "grab",
+      "category": "brands",
+      "views": 12300000000,
+      "score": 100,
+      "country_id": "375cfcb3-e327-4a54-a3df-224bc955ac27",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    }
+  ],
+  "TH": [
+    {
+      "hashtag": "thaifood",
+      "category": "food",
+      "views": 15000000000,
+      "score": 100,
+      "country_id": "d467a60b-94ea-40da-a3e5-19c657f9f32c",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "padthai",
+      "category": "food",
+      "views": 1300000000,
+      "score": 95,
+      "country_id": "d467a60b-94ea-40da-a3e5-19c657f9f32c",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "tomyum",
+      "category": "food",
+      "views": 959800000,
+      "score": 90,
+      "country_id": "d467a60b-94ea-40da-a3e5-19c657f9f32c",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "mangostickyrice",
+      "category": "food",
+      "views": 1100000000,
+      "score": 95,
+      "country_id": "d467a60b-94ea-40da-a3e5-19c657f9f32c",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "thaistreetfood",
+      "category": "food",
+      "views": 1900000000,
+      "score": 95,
+      "country_id": "d467a60b-94ea-40da-a3e5-19c657f9f32c",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "thaifashion",
+      "category": "fashion",
+      "views": 56300000,
+      "score": 70,
+      "country_id": "d467a60b-94ea-40da-a3e5-19c657f9f32c",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "mistine",
+      "category": "brands",
+      "views": 2900000000,
+      "score": 95,
+      "country_id": "d467a60b-94ea-40da-a3e5-19c657f9f32c",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "thaibeauty",
+      "category": "products",
+      "views": 199200000,
+      "score": 80,
+      "country_id": "d467a60b-94ea-40da-a3e5-19c657f9f32c",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    }
+  ],
+  "TO": [],
+  "TR": [
+    {
+      "hashtag": "turkishfood",
+      "category": "food",
+      "views": 7400000000,
+      "score": 95,
+      "country_id": "28bae6d0-89bb-44df-bb41-64d824cc209a",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "kebab",
+      "category": "food",
+      "views": 27200000000,
+      "score": 100,
+      "country_id": "28bae6d0-89bb-44df-bb41-64d824cc209a",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "baklava",
+      "category": "food",
+      "views": 6600000000,
+      "score": 95,
+      "country_id": "28bae6d0-89bb-44df-bb41-64d824cc209a",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "dondurma",
+      "category": "food",
+      "views": 2900000000,
+      "score": 95,
+      "country_id": "28bae6d0-89bb-44df-bb41-64d824cc209a",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "kunefe",
+      "category": "food",
+      "views": 666200000,
+      "score": 90,
+      "country_id": "28bae6d0-89bb-44df-bb41-64d824cc209a",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "turkishcoffee",
+      "category": "food",
+      "views": 800200000,
+      "score": 90,
+      "country_id": "28bae6d0-89bb-44df-bb41-64d824cc209a",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "turkishfashion",
+      "category": "fashion",
+      "views": 37200000,
+      "score": 60,
+      "country_id": "28bae6d0-89bb-44df-bb41-64d824cc209a",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "lcwaikiki",
+      "category": "brands",
+      "views": 1800000000,
+      "score": 95,
+      "country_id": "28bae6d0-89bb-44df-bb41-64d824cc209a",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    }
+  ],
+  "TW": [
+    {
+      "hashtag": "taiwanesefood",
+      "category": "food",
+      "views": 478600000,
+      "score": 80,
+      "country_id": "099ecdd4-544d-4414-9458-71b69d4975bf",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "bubbletea",
+      "category": "food",
+      "views": 14000000000,
+      "score": 100,
+      "country_id": "099ecdd4-544d-4414-9458-71b69d4975bf",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "beefnoodle",
+      "category": "food",
+      "views": 37800000,
+      "score": 60,
+      "country_id": "099ecdd4-544d-4414-9458-71b69d4975bf",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "pineapplecake",
+      "category": "food",
+      "views": 122500000,
+      "score": 80,
+      "country_id": "099ecdd4-544d-4414-9458-71b69d4975bf",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "xiaolongbao",
+      "category": "food",
+      "views": 1100000000,
+      "score": 95,
+      "country_id": "099ecdd4-544d-4414-9458-71b69d4975bf",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    }
+  ],
+  "UA": [],
+  "US": [
+    {
+      "hashtag": "tiktokmademebuyit",
+      "category": "food",
+      "views": 309900000000,
+      "score": 100,
+      "country_id": "39548acc-9306-418d-9582-be042cb7658d",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "pickledip",
+      "category": "food",
+      "views": 162100000,
+      "score": 80,
+      "country_id": "39548acc-9306-418d-9582-be042cb7658d",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "mushroomcoffee",
+      "category": "food",
+      "views": 285100000,
+      "score": 80,
+      "country_id": "39548acc-9306-418d-9582-be042cb7658d",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "proteinrecipe",
+      "category": "food",
+      "views": 1100000000,
+      "score": 95,
+      "country_id": "39548acc-9306-418d-9582-be042cb7658d",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "airfryerrecipe",
+      "category": "food",
+      "views": 2300000000,
+      "score": 95,
+      "country_id": "39548acc-9306-418d-9582-be042cb7658d",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "crumblcookies",
+      "category": "food",
+      "views": 16900000000,
+      "score": 100,
+      "country_id": "39548acc-9306-418d-9582-be042cb7658d",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "coquette",
+      "category": "fashion",
+      "views": 63800000000,
+      "score": 100,
+      "country_id": "39548acc-9306-418d-9582-be042cb7658d",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "oldmoney",
+      "category": "fashion",
+      "views": 45800000000,
+      "score": 100,
+      "country_id": "39548acc-9306-418d-9582-be042cb7658d",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "quietluxury",
+      "category": "fashion",
+      "views": 2600000000,
+      "score": 95,
+      "country_id": "39548acc-9306-418d-9582-be042cb7658d",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "balletcore",
+      "category": "fashion",
+      "views": 6900000000,
+      "score": 95,
+      "country_id": "39548acc-9306-418d-9582-be042cb7658d",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "streetwear",
+      "category": "fashion",
+      "views": 123800000000,
+      "score": 100,
+      "country_id": "39548acc-9306-418d-9582-be042cb7658d",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "y2kfashion",
+      "category": "fashion",
+      "views": 9000000000,
+      "score": 95,
+      "country_id": "39548acc-9306-418d-9582-be042cb7658d",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "mobwife",
+      "category": "fashion",
+      "views": 1000000000,
+      "score": 95,
+      "country_id": "39548acc-9306-418d-9582-be042cb7658d",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "rhode",
+      "category": "brands",
+      "views": 10100000000,
+      "score": 100,
+      "country_id": "39548acc-9306-418d-9582-be042cb7658d",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "fentybeauty",
+      "category": "brands",
+      "views": 12000000000,
+      "score": 100,
+      "country_id": "39548acc-9306-418d-9582-be042cb7658d",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "stanleycup",
+      "category": "brands",
+      "views": 16500000000,
+      "score": 100,
+      "country_id": "39548acc-9306-418d-9582-be042cb7658d",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "dyson",
+      "category": "brands",
+      "views": 18000000000,
+      "score": 100,
+      "country_id": "39548acc-9306-418d-9582-be042cb7658d",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "lululemon",
+      "category": "brands",
+      "views": 24400000000,
+      "score": 100,
+      "country_id": "39548acc-9306-418d-9582-be042cb7658d",
+      "category_id": "47d77b6d-3c38-4861-ac3a-1dfe04277da5"
+    },
+    {
+      "hashtag": "amazonfinds",
+      "category": "products",
+      "views": 112100000000,
+      "score": 100,
+      "country_id": "39548acc-9306-418d-9582-be042cb7658d",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    },
+    {
+      "hashtag": "viralproducts",
+      "category": "products",
+      "views": 11600000000,
+      "score": 100,
+      "country_id": "39548acc-9306-418d-9582-be042cb7658d",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    },
+    {
+      "hashtag": "galaxyprojector",
+      "category": "products",
+      "views": 690600000,
+      "score": 90,
+      "country_id": "39548acc-9306-418d-9582-be042cb7658d",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    },
+    {
+      "hashtag": "tiktokmademebuyit2026",
+      "category": "products",
+      "views": 829900,
+      "score": 30,
+      "country_id": "39548acc-9306-418d-9582-be042cb7658d",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    },
+    {
+      "hashtag": "the10game",
+      "category": "challenge",
+      "views": 135700000,
+      "score": 80,
+      "country_id": "39548acc-9306-418d-9582-be042cb7658d",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    },
+    {
+      "hashtag": "squareupchallenge",
+      "category": "challenge",
+      "views": 50100000,
+      "score": 70,
+      "country_id": "39548acc-9306-418d-9582-be042cb7658d",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    },
+    {
+      "hashtag": "dancechallenge2026",
+      "category": "challenge",
+      "views": 199000000,
+      "score": 80,
+      "country_id": "39548acc-9306-418d-9582-be042cb7658d",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    },
+    {
+      "hashtag": "outfitchallenge",
+      "category": "challenge",
+      "views": 2600000000,
+      "score": 95,
+      "country_id": "39548acc-9306-418d-9582-be042cb7658d",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    },
+    {
+      "hashtag": "makeupchallenge",
+      "category": "challenge",
+      "views": 38900000000,
+      "score": 100,
+      "country_id": "39548acc-9306-418d-9582-be042cb7658d",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    }
+  ],
+  "VN": [
+    {
+      "hashtag": "vietnamesefood",
+      "category": "food",
+      "views": 7400000000,
+      "score": 95,
+      "country_id": "d6244e55-9170-414b-9d61-4476ebf4c673",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "pho",
+      "category": "food",
+      "views": 6200000000,
+      "score": 95,
+      "country_id": "d6244e55-9170-414b-9d61-4476ebf4c673",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "banhmifood",
+      "category": "food",
+      "views": 1300000,
+      "score": 45,
+      "country_id": "d6244e55-9170-414b-9d61-4476ebf4c673",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "eggcoffee",
+      "category": "food",
+      "views": 118000000,
+      "score": 80,
+      "country_id": "d6244e55-9170-414b-9d61-4476ebf4c673",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "vietnamesecoffe",
+      "category": "food",
+      "views": 499500,
+      "score": 30,
+      "country_id": "d6244e55-9170-414b-9d61-4476ebf4c673",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "vietnamesefashion",
+      "category": "fashion",
+      "views": 32000000,
+      "score": 60,
+      "country_id": "d6244e55-9170-414b-9d61-4476ebf4c673",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "aodai",
+      "category": "fashion",
+      "views": 11000000000,
+      "score": 100,
+      "country_id": "d6244e55-9170-414b-9d61-4476ebf4c673",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    }
+  ],
+  "WS": [],
+  "ZA": [
+    {
+      "hashtag": "southafricanfood",
+      "category": "food",
+      "views": 871300000,
+      "score": 90,
+      "country_id": "593d3d6b-74bf-486a-a39e-456b9cab4aeb",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "braai",
+      "category": "food",
+      "views": 928000000,
+      "score": 90,
+      "country_id": "593d3d6b-74bf-486a-a39e-456b9cab4aeb",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "biltong",
+      "category": "food",
+      "views": 300100000,
+      "score": 80,
+      "country_id": "593d3d6b-74bf-486a-a39e-456b9cab4aeb",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "bobotie",
+      "category": "food",
+      "views": 17200000,
+      "score": 60,
+      "country_id": "593d3d6b-74bf-486a-a39e-456b9cab4aeb",
+      "category_id": "989c0361-82f8-4805-a4b1-285a7ee420de"
+    },
+    {
+      "hashtag": "southafricanfashion",
+      "category": "fashion",
+      "views": 157700000,
+      "score": 80,
+      "country_id": "593d3d6b-74bf-486a-a39e-456b9cab4aeb",
+      "category_id": "98561c59-d4db-41d7-b7e6-545614e37e87"
+    },
+    {
+      "hashtag": "amapiano",
+      "category": "challenge",
+      "views": 48700000000,
+      "score": 100,
+      "country_id": "593d3d6b-74bf-486a-a39e-456b9cab4aeb",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    },
+    {
+      "hashtag": "amapianodance",
+      "category": "challenge",
+      "views": 11000000000,
+      "score": 100,
+      "country_id": "593d3d6b-74bf-486a-a39e-456b9cab4aeb",
+      "category_id": "faba0b6a-bbbe-4eb6-8035-23c7e5b2a61b"
+    }
+  ]
+}

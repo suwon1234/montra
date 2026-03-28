@@ -1,0 +1,16 @@
+{
+  "google_trends": {
+    "enabled": true,
+    "rate_limit_delay": 3,
+    "max_keywords_per_category": 5,
+    "timeframe": "today 3-m",
+    "description": "Google Trends 공개 API (pytrends) — API 키 불필요"
+  },
+  "tiktok": {
+    "enabled": true,
+    "periods": ["7d", "30d"],
+    "use_apify": true,
+    "max_results_per_country": 50,
+    "description": "TikTok 트렌딩 해시태그 수집 — APIFY_API_TOKEN 필요"
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "timestamp": "2026-03-13T09:27:34.089Z",
+  "reason": "compaction",
+  "status": {
+    "version": "2.0",
+    "lastUpdated": "2026-03-13T09:21:47.544Z",
+    "activeFeatures": [
+      "montra"
+    ],
+    "primaryFeature": "montra",
+    "features": {
+      "montra": {
+        "phase": "do",
+        "phaseNumber": 3,
+        "matchRate": null,
+        "iterationCount": 0,
+        "requirements": [],
+        "documents": {},
+        "timestamps": {
+          "started": "2026-03-13T08:04:23.758Z",
+          "lastUpdated": "2026-03-13T09:21:47.544Z"
+        },
+        "lastFile": "D:\\prototypes\\montra\\app\\not-found.tsx"
+      }
+    },
+    "pipeline": {
+      "currentPhase": 1,
+      "level": "Dynamic",
+      "phaseHistory": []
+    },
+    "session": {
+      "startedAt": "2026-03-13T07:51:21.521Z",
+      "onboardingCompleted": false,
+      "lastActivity": "2026-03-13T09:21:47.544Z"
+    },
+    "history": [
+      {
+        "timestamp": "2026-03-13T08:04:23.758Z",
+        "feature": "montra",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-13T08:04:29.079Z",
+        "feature": "montra",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-13T08:04:33.927Z",
+        "feature": "montra",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-13T08:04:54.598Z",
+        "feature": "montra",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-13T08:05:21.972Z",
+        "feature": "montra",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-13T08:05:32.890Z",
+        "feature": "montra",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-13T08:05:44.941Z",
+        "feature": "montra",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-13T08:05:48.766Z",
+        "feature": "montra",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-13T08:05:49.875Z",
+        "feature": "montra",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-13T08:41:14.726Z",
+        "feature": "montra",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-13T08:41:54.568Z",
+        "feature": "montra",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-13T08:42:06.191Z",
+        "feature": "montra",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-13T08:42:17.022Z",
+        "feature": "montra",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-13T08:42:31.563Z",
+        "feature": "montra",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-13T08:42:36.951Z",
+        "feature": "montra",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-13T08:46:44.718Z",
+        "feature": "montra",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-13T08:53:54.767Z",
+        "feature": "montra",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-13T08:54:45.844Z",
+        "feature": "montra",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-13T08:55:44.510Z",
+        "feature": "montra",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-13T09:11:53.121Z",
+        "feature": "montra",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-13T09:14:31.447Z",
+        "feature": "montra",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-13T09:15:14.016Z",
+        "feature": "montra",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-13T09:15:29.315Z",
+        "feature": "montra",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-13T09:21:47.544Z",
+        "feature": "montra",
+        "phase": "do",
+        "action": "updated"
+      }
+    ]
+  }
+}

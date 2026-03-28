@@ -1,0 +1,43 @@
+============================================================
+MONTRA - Real Trends Collector v2
+Google Trends + TikTok/Instagram Challenges
+============================================================
+
+  Countries: 30
+  Queries per country: 4
+  Est. time: ~0.5h
+
+  [1/30] KR
+    [fashion] 15 queries found
+    Rate limited. Waiting 90s...
+    [food] 15 queries found
+    [shopping] 15 queries found
+    [brands] 15 queries found
+    [history] cristy ren - 29 days
+       [shopping] 15 queries found
+    Rate limited. Waiting 90s...
+    Ra    [history] mary navokina - 29 days
+  [SAVED] 1/30 countries
+
+  [2/30] JP
+    Rate limited. Waiting 90s...
+    Rate limited. Waiting 180s...
+    [fashion] 15 queries found
+    Rate limited. Waiting 90s...
+    [food] 9 queries found
+    Rate limited. Waiting 90s...
+    Rate limited. Waiting 180s...
+    Ra    [history] 바이에른 대 우니 온 베를린 - 29 days
+     Rate limited. Waiting 450s...
+    [shopping] no data
+    Rate limited. Waiting 90s...
+    Rate limited. Waiting 180s...
+    Rate limited. Waiting 270s...
+    [brands] 13 queries found
+    [history] 彼女 に もらっ た 手編み の マフラー ぱ ねぇ - 29 days
+    [history] 森 賢 - 29 days
+    [history] 森 英恵 夫 - 29 days
+    [history] 彼女 に もらっ た 手編み の マフラー ぱ ねぇ www - 29 days
+- 29 days
+    [history] マルジェラ マウス ピース - 29 days
+    [history] 森 英恵 夫 - 29 days

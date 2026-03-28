@@ -1,0 +1,188 @@
+C:\Users\cyclo\AppData\Local\Programs\Python\Python313\Lib\site-packages\pytrends\request.py:260: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  df = df.fillna(False)
+C:\Users\cyclo\AppData\Local\Programs\Python\Python313\Lib\site-packages\pytrends\request.py:260: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  df = df.fillna(False)
+C:\Users\cyclo\AppData\Local\Programs\Python\Python313\Lib\site-packages\pytrends\request.py:260: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  df = df.fillna(False)
+C:\Users\cyclo\AppData\Local\Programs\Python\Python313\Lib\site-packages\pytrends\request.py:260: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  df = df.fillna(False)
+C:\Users\cyclo\AppData\Local\Programs\Python\Python313\Lib\site-packages\pytrends\request.py:260: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  df = df.fillna(False)
+C:\Users\cyclo\AppData\Local\Programs\Python\Python313\Lib\site-packages\pytrends\request.py:260: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  df = df.fillna(False)
+C:\Users\cyclo\AppData\Local\Programs\Python\Python313\Lib\site-packages\pytrends\request.py:260: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  df = df.fillna(False)
+C:\Users\cyclo\AppData\Local\Programs\Python\Python313\Lib\site-packages\pytrends\request.py:260: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  df = df.fillna(False)
+C:\Users\cyclo\AppData\Local\Programs\Python\Python313\Lib\site-packages\pytrends\request.py:260: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  df = df.fillna(False)
+C:\Users\cyclo\AppData\Local\Programs\Python\Python313\Lib\site-packages\pytrends\request.py:260: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  df = df.fillna(False)
+C:\Users\cyclo\AppData\Local\Programs\Python\Python313\Lib\site-packages\pytrends\request.py:260: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  df = df.fillna(False)
+C:\Users\cyclo\AppData\Local\Programs\Python\Python313\Lib\site-packages\pytrends\request.py:260: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  df = df.fillna(False)
+C:\Users\cyclo\AppData\Local\Programs\Python\Python313\Lib\site-packages\pytrends\request.py:260: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  df = df.fillna(False)
+C:\Users\cyclo\AppData\Local\Programs\Python\Python313\Lib\site-packages\pytrends\request.py:260: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  df = df.fillna(False)
+C:\Users\cyclo\AppData\Local\Programs\Python\Python313\Lib\site-packages\pytrends\request.py:260: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  df = df.fillna(False)
+C:\Users\cyclo\AppData\Local\Programs\Python\Python313\Lib\site-packages\pytrends\request.py:260: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  df = df.fillna(False)
+C:\Users\cyclo\AppData\Local\Programs\Python\Python313\Lib\site-packages\pytrends\request.py:260: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  df = df.fillna(False)
+C:\Users\cyclo\AppData\Local\Programs\Python\Python313\Lib\site-packages\pytrends\request.py:260: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  df = df.fillna(False)
+C:\Users\cyclo\AppData\Local\Programs\Python\Python313\Lib\site-packages\pytrends\request.py:260: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  df = df.fillna(False)
+C:\Users\cyclo\AppData\Local\Programs\Python\Python313\Lib\site-packages\pytrends\request.py:260: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  df = df.fillna(False)
+C:\Users\cyclo\AppData\Local\Programs\Python\Python313\Lib\site-packages\pytrends\request.py:260: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  df = df.fillna(False)
+C:\Users\cyclo\AppData\Local\Programs\Python\Python313\Lib\site-packages\pytrends\request.py:260: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  df = df.fillna(False)
+C:\Users\cyclo\AppData\Local\Programs\Python\Python313\Lib\site-packages\pytrends\request.py:260: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  df = df.fillna(False)
+C:\Users\cyclo\AppData\Local\Programs\Python\Python313\Lib\site-packages\pytrends\request.py:260: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  df = df.fillna(False)
+============================================================
+MONTRA - Google Trends Real Data Collector
+============================================================
+
+[1/4] Loading trends...
+  Trying Supabase REST API...
+  Loaded 1000 trends from Supabase...
+  Loaded 2000 trends from Supabase...
+  Loaded 3000 trends from Supabase...
+  Loaded 4000 trends from Supabase...
+  Loaded 5000 trends from Supabase...
+  Loaded 5532 trends from Supabase...
+  Total trends: 5532
+  Countries: 190
+
+[2/4] Initializing Google Trends...
+
+[3/4] Collecting real Google Trends data...
+  Strategy: 1 keyword per request, 8-15s delay
+  Estimated time: 17.7 hours
+
+
+  [AE] 24 trends
+    [OK] Noon                           (29 days)
+    [OK] Modest Luxury Fashion Abaya    (29 days)
+    [--] Nike Air Jordan 1 AE           (no data)
+    [--] Sony PS5 Slim AE               (no data)
+    [--] Luqaimat Sweet Dumplings       (no data)
+    [--] Dyson V15 Detect AE            (no data)
+    [OK] Huda Beauty                    (29 days)
+    [OK] Namshi                         (29 days)
+    [--] Louis Vuitton Dubai Edition    (no data)
+    [OK] SHEIN AE Modest Collection     (29 days)
+    [--] Huda Beauty Faux Filter        (no data)
+    [OK] Bateel                         (29 days)
+    [OK] Emirates                       (29 days)
+    [OK] Samsung Galaxy Z Fold 6        (29 days)
+    [--] Namshi Streetwear              (no data)
+    [--] Gissah Custom Perfume          (no data)
+    [OK] Dubai Chocolate (Original)     (29 days)
+    [--] Arabic Coffee (Gahwa)          (no data)
+    [--] Designer Abaya Collection      (no data)
+    [OK] Gissah                         (29 days)
+    [--] Dates Chocolate Coated         (no data)
+    [--] Camel Milk Ice Cream           (no data)
+    [--] Kunafa Premium                 (no data)
+    [--] Apple iPhone 16 Pro AE         (no data)
+
+  [AF] 30 trends
+    [--] boAt Airdopes 141              (no data)
+    [--] Quiet Luxury Minimal Set       (no data)
+    Rate limited. Waiting 65s... (retry 1)
+    Rate limited. Waiting 130s... (retry 2)
+    [--] Reliance Jio                   (no data)
+    [--] Portable Blender Cup           (no data)
+    [--] Amul                           (no data)
+    [OK] SHEIN                          (29 days)
+    [--] FabIndia Kurti Collection      (no data)
+    [--] Galaxy Projector               (no data)
+    [--] Mi Smart Band 9                (no data)
+    [OK] Nykaa                          (29 days)
+    [--] Biba Anarkali Suit             (no data)
+    [--] Fire-Boltt Phoenix Ultra       (no data)
+    [OK] Sleepy Owl Cold Brew           (29 days)
+    [--] Mamaearth Vitamin C Serum      (no data)
+    [--] Y2K Revival Accessories        (no data)
+    [--] Chai Variations                (no data)
+    [--] boAt Rockerz Smart Watch       (no data)
+    [--] Nike Air Force 1 India         (no data)
+    [--] Saree Draping Challenge Look   (no data)
+    [--] Ethnic Fusion Wear             (no data)
+    [--] Maggi Hot Heads                (no data)
+    [--] Dubai Chocolate Bar            (no data)
+    [--] TikTok Shop                    (no data)
+    [OK] Tata                           (29 days)
+    [--] Paper Boat Aam Panna           (no data)
+    [--] Haldiram''s Soan Papdi         (no data)
+
+  === Progress: 50/5532 (14 OK, 36 no data) ===
+
+    [OK] Plum Green Tea Face Wash       (29 days)
+    [--] boAt                           (no data)
+    [--] Boba Tea Kit                   (no data)
+    [--] Street Food Innovations        (no data)
+
+  [AG] 30 trends
+    [--] LED Light Therapy Mask         (no data)
+    [--] Galaxy Projector               (no data)
+    [--] Quiet Luxury Minimal Set       (no data)
+    [OK] Nike                           (29 days)
+    [--] Rolling Ice Cream Pan          (no data)
+    [--] Nike Dunk Low Panda            (no data)
+    [--] Pickle Dip (Cream Cheese+Dill) (no data)
+    Rate limited. Waiting 65s... (retry 1)
+    [--] Y2K Revival Cargo Pants        (no data)
+    [OK] SHEIN                          (29 days)
+    [OK] Stanley                        (29 days)
+    [OK] Boba Tea Kit                   (29 days)
+    [--] Dior                           (no data)
+    Rate limited. Waiting 65s... (retry 1)
+    [--] Fenty Beauty                   (no data)
+    [--] Y2K Revival Accessories        (no data)
+    Rate limited. Waiting 65s... (retry 1)
+    [--] TikTok Shop                    (no data)
+    [OK] Apple                          (29 days)
+    [--] Pistachio Everything           (no data)
+    Rate limited. Waiting 65s... (retry 1)
+    [--] Dubai Chocolate Bar            (no data)
+    [--] Quiet Luxury Blazer            (no data)
+    [--] Portable Mini Projector        (no data)
+    [--] Portable Blender Cup           (no data)
+    [OK] Poppi Prebiotic Soda           (29 days)
+    [--] Boba Protein Shake             (no data)
+    Rate limited. Waiting 65s... (retry 1)
+    [--] UGG Tazz Platform Slipper      (no data)
+    [--] Mini Karaoke Microphone        (no data)
+    [--] Sunset Projection Lamp         (no data)
+    [--] Canvas Tote Bag                (no data)
+
+  [AL] 31 trends
+    [--] Koton Summer Dress             (no data)
+    [--] Mavi Jeans Gold                (no data)
+    [--] Y2K Revival Accessories        (no data)
+    [--] Galaxy Projector               (no data)
+    [--] Farmasi Skincare Set           (no data)
+    [OK] Turkish Airlines               (29 days)
+    [OK] Baklava Premium                (29 days)
+    [--] Golden Rose Cosmetics          (no data)
+    [--] Caykur Rize Tea                (no data)
+    [--] Philips OneBlade TR            (no data)
+    [OK] Trendyol                       (29 days)
+    [--] Turkish Bazaar Fashion Revival (no data)
+Traceback (most recent call last):
+  File "D:\prototypes\montra\scripts\collect_google_trends.py", line 353, in <module>
+    main()
+    ~~~~^^
+  File "D:\prototypes\montra\scripts\collect_google_trends.py", line 324, in main
+    print(f"    [--] {keyword[:30]:30s} (no data)")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'cp949' codec can't encode character '\xfc' in position 18: illegal multibyte sequence

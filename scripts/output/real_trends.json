@@ -1,0 +1,535 @@
+[
+  {
+    "country_code": "KR",
+    "category_slug": "beauty",
+    "name": "화장품 추천",
+    "name_local": "화장품 추천",
+    "description": "Google Trends 기반 실시간 데이터. 관련 검색어: 남자 화장품 추천, 일본 화장품 추천, 남성 화장품 추천, px 화장품 추천",
+    "heat_score": 26,
+    "heat_status": "cooling",
+    "search_score": 16,
+    "social_score": 11,
+    "ecommerce_score": 1,
+    "news_score": 6,
+    "tags": [
+      "남자 화장품 추천",
+      "일본 화장품 추천",
+      "남성 화장품 추천",
+      "px 화장품 추천"
+    ],
+    "first_detected_at": "2026-03-17T03:01:47.735673+00:00",
+    "last_updated_at": "2026-03-17T03:01:47.735673+00:00"
+  },
+  {
+    "country_code": "KR",
+    "category_slug": "food",
+    "name": "카페 추천",
+    "name_local": "카페 추천",
+    "description": "Google Trends 기반 실시간 데이터. 관련 검색어: 서울 카페 추천, 홍대 카페 추천, 아키하바라 메이드 카페 추천",
+    "heat_score": 80,
+    "heat_status": "rising",
+    "search_score": 55,
+    "social_score": 65,
+    "ecommerce_score": 55,
+    "news_score": 60,
+    "tags": [
+      "서울 카페 추천",
+      "홍대 카페 추천",
+      "아키하바라 메이드 카페 추천"
+    ],
+    "first_detected_at": "2026-03-17T03:01:47.735673+00:00",
+    "last_updated_at": "2026-03-17T03:01:47.735673+00:00"
+  },
+  {
+    "country_code": "KR",
+    "category_slug": "tech",
+    "name": "AI 트렌드",
+    "name_local": "AI 트렌드",
+    "description": "Google Trends 기반 실시간 데이터. 시드 키워드: AI 트렌드",
+    "heat_score": 12,
+    "heat_status": "cooling",
+    "search_score": 12,
+    "social_score": 0,
+    "ecommerce_score": 0,
+    "news_score": 0,
+    "tags": [
+      "AI 트렌드"
+    ],
+    "first_detected_at": "2026-03-17T03:01:47.735673+00:00",
+    "last_updated_at": "2026-03-17T03:01:47.735673+00:00"
+  },
+  {
+    "country_code": "US",
+    "category_slug": "fashion",
+    "name": "fashion trend 2026",
+    "name_local": "fashion trend 2026",
+    "description": "Google Trends 기반 실시간 데이터. 관련 검색어: new york times",
+    "heat_score": 14,
+    "heat_status": "cooling",
+    "search_score": 4,
+    "social_score": 0,
+    "ecommerce_score": 0,
+    "news_score": 0,
+    "tags": [
+      "new york times"
+    ],
+    "first_detected_at": "2026-03-17T03:01:47.735673+00:00",
+    "last_updated_at": "2026-03-17T03:01:47.735673+00:00"
+  },
+  {
+    "country_code": "US",
+    "category_slug": "fashion",
+    "name": "streetwear",
+    "name_local": "streetwear",
+    "description": "Google Trends 기반 실시간 데이터. 관련 검색어: streetwear fashion, men streetwear, what is streetwear, streetwear brands, streetwear clothing",
+    "heat_score": 52,
+    "heat_status": "new",
+    "search_score": 42,
+    "social_score": 37,
+    "ecommerce_score": 27,
+    "news_score": 32,
+    "tags": [
+      "streetwear fashion",
+      "men streetwear",
+      "what is streetwear",
+      "streetwear brands",
+      "streetwear clothing"
+    ],
+    "first_detected_at": "2026-03-17T03:01:47.735673+00:00",
+    "last_updated_at": "2026-03-17T03:01:47.735673+00:00"
+  },
+  {
+    "country_code": "US",
+    "category_slug": "beauty",
+    "name": "skincare routine",
+    "name_local": "skincare routine",
+    "description": "Google Trends 기반 실시간 데이터. 관련 검색어: best skincare routine, face skincare routine, skincare routine order, acne skincare routine, best skincare products",
+    "heat_score": 91,
+    "heat_status": "rising",
+    "search_score": 66,
+    "social_score": 76,
+    "ecommerce_score": 66,
+    "news_score": 71,
+    "tags": [
+      "best skincare routine",
+      "face skincare routine",
+      "skincare routine order",
+      "acne skincare routine",
+      "best skincare products"
+    ],
+    "first_detected_at": "2026-03-17T03:01:47.735673+00:00",
+    "last_updated_at": "2026-03-17T03:01:47.735673+00:00"
+  },
+  {
+    "country_code": "US",
+    "category_slug": "beauty",
+    "name": "makeup trend",
+    "name_local": "makeup trend",
+    "description": "Google Trends 기반 실시간 데이터. 관련 검색어: bebot makeup trend, asoka makeup trend",
+    "heat_score": 15,
+    "heat_status": "cooling",
+    "search_score": 5,
+    "social_score": 0,
+    "ecommerce_score": 0,
+    "news_score": 0,
+    "tags": [
+      "bebot makeup trend",
+      "asoka makeup trend"
+    ],
+    "first_detected_at": "2026-03-17T03:01:47.735673+00:00",
+    "last_updated_at": "2026-03-17T03:01:47.735673+00:00"
+  },
+  {
+    "country_code": "US",
+    "category_slug": "food",
+    "name": "food trend 2026",
+    "name_local": "food trend 2026",
+    "description": "Google Trends 기반 실시간 데이터. 시드 키워드: food trend 2026",
+    "heat_score": 18,
+    "heat_status": "cooling",
+    "search_score": 18,
+    "social_score": 3,
+    "ecommerce_score": 0,
+    "news_score": 0,
+    "tags": [
+      "food trend 2026"
+    ],
+    "first_detected_at": "2026-03-17T03:01:47.735673+00:00",
+    "last_updated_at": "2026-03-17T03:01:47.735673+00:00"
+  },
+  {
+    "country_code": "US",
+    "category_slug": "food",
+    "name": "viral recipe",
+    "name_local": "viral recipe",
+    "description": "Google Trends 기반 실시간 데이터. 관련 검색어: viral recipes",
+    "heat_score": 82,
+    "heat_status": "rising",
+    "search_score": 57,
+    "social_score": 67,
+    "ecommerce_score": 57,
+    "news_score": 62,
+    "tags": [
+      "viral recipes"
+    ],
+    "first_detected_at": "2026-03-17T03:01:47.735673+00:00",
+    "last_updated_at": "2026-03-17T03:01:47.735673+00:00"
+  },
+  {
+    "country_code": "US",
+    "category_slug": "tech",
+    "name": "AI trend",
+    "name_local": "AI trend",
+    "description": "Google Trends 기반 실시간 데이터. 시드 키워드: AI trend",
+    "heat_score": 26,
+    "heat_status": "cooling",
+    "search_score": 26,
+    "social_score": 11,
+    "ecommerce_score": 1,
+    "news_score": 6,
+    "tags": [
+      "AI trend"
+    ],
+    "first_detected_at": "2026-03-17T03:01:47.735673+00:00",
+    "last_updated_at": "2026-03-17T03:01:47.735673+00:00"
+  },
+  {
+    "country_code": "US",
+    "category_slug": "tech",
+    "name": "gadget review",
+    "name_local": "gadget review",
+    "description": "Google Trends 기반 실시간 데이터. 관련 검색어: gadget review site",
+    "heat_score": 10,
+    "heat_status": "cooling",
+    "search_score": 0,
+    "social_score": 0,
+    "ecommerce_score": 0,
+    "news_score": 0,
+    "tags": [
+      "gadget review site"
+    ],
+    "first_detected_at": "2026-03-17T03:01:47.735673+00:00",
+    "last_updated_at": "2026-03-17T03:01:47.735673+00:00"
+  },
+  {
+    "country_code": "US",
+    "category_slug": "lifestyle",
+    "name": "fitness trend",
+    "name_local": "fitness trend",
+    "description": "Google Trends 기반 실시간 데이터. 시드 키워드: fitness trend",
+    "heat_score": 47,
+    "heat_status": "new",
+    "search_score": 47,
+    "social_score": 32,
+    "ecommerce_score": 22,
+    "news_score": 27,
+    "tags": [
+      "fitness trend"
+    ],
+    "first_detected_at": "2026-03-17T03:01:47.735673+00:00",
+    "last_updated_at": "2026-03-17T03:01:47.735673+00:00"
+  },
+  {
+    "country_code": "JP",
+    "category_slug": "fashion",
+    "name": "ファッション トレンド 2026",
+    "name_local": "ファッション トレンド 2026",
+    "description": "Google Trends 기반 실시간 데이터. 시드 키워드: ファッション トレンド 2026",
+    "heat_score": 7,
+    "heat_status": "cooling",
+    "search_score": 7,
+    "social_score": 0,
+    "ecommerce_score": 0,
+    "news_score": 0,
+    "tags": [
+      "ファッション トレンド 2026"
+    ],
+    "first_detected_at": "2026-03-17T03:01:47.735673+00:00",
+    "last_updated_at": "2026-03-17T03:01:47.735673+00:00"
+  },
+  {
+    "country_code": "JP",
+    "category_slug": "fashion",
+    "name": "ストリートファッション",
+    "name_local": "ストリートファッション",
+    "description": "Google Trends 기반 실시간 데이터. 관련 검색어: ファッション, ストリート, ストリート 系, ストリート 系 ファッション, メンズ ファッション",
+    "heat_score": 80,
+    "heat_status": "rising",
+    "search_score": 55,
+    "social_score": 65,
+    "ecommerce_score": 55,
+    "news_score": 60,
+    "tags": [
+      "ファッション",
+      "ストリート",
+      "ストリート 系",
+      "ストリート 系 ファッション",
+      "メンズ ファッション"
+    ],
+    "first_detected_at": "2026-03-17T03:01:47.735673+00:00",
+    "last_updated_at": "2026-03-17T03:01:47.735673+00:00"
+  },
+  {
+    "country_code": "JP",
+    "category_slug": "beauty",
+    "name": "スキンケア",
+    "name_local": "スキンケア",
+    "description": "Google Trends 기반 실시간 데이터. 관련 검색어: スキンケア おすすめ, スキンケア クリニック, スキンケア クリーム, 化粧 水, スキンケア メンズ",
+    "heat_score": 10,
+    "heat_status": "cooling",
+    "search_score": 0,
+    "social_score": 0,
+    "ecommerce_score": 0,
+    "news_score": 0,
+    "tags": [
+      "スキンケア おすすめ",
+      "スキンケア クリニック",
+      "スキンケア クリーム",
+      "化粧 水",
+      "スキンケア メンズ"
+    ],
+    "first_detected_at": "2026-03-17T03:01:47.735673+00:00",
+    "last_updated_at": "2026-03-17T03:01:47.735673+00:00"
+  },
+  {
+    "country_code": "JP",
+    "category_slug": "beauty",
+    "name": "コスメ おすすめ",
+    "name_local": "コスメ おすすめ",
+    "description": "Google Trends 기반 실시간 데이터. 관련 검색어: メンズ コスメ おすすめ",
+    "heat_score": 10,
+    "heat_status": "cooling",
+    "search_score": 0,
+    "social_score": 0,
+    "ecommerce_score": 0,
+    "news_score": 0,
+    "tags": [
+      "メンズ コスメ おすすめ"
+    ],
+    "first_detected_at": "2026-03-17T03:01:47.735673+00:00",
+    "last_updated_at": "2026-03-17T03:01:47.735673+00:00"
+  },
+  {
+    "country_code": "JP",
+    "category_slug": "food",
+    "name": "スイーツ 人気",
+    "name_local": "スイーツ 人気",
+    "description": "Google Trends 기반 실시간 데이터. 관련 검색어: 京都 スイーツ 人気, ローソン スイーツ 人気, コンビニ スイーツ 人気, コンビニ スイーツ 人気 ランキング",
+    "heat_score": 30,
+    "heat_status": "cooling",
+    "search_score": 20,
+    "social_score": 15,
+    "ecommerce_score": 5,
+    "news_score": 10,
+    "tags": [
+      "京都 スイーツ 人気",
+      "ローソン スイーツ 人気",
+      "コンビニ スイーツ 人気",
+      "コンビニ スイーツ 人気 ランキング"
+    ],
+    "first_detected_at": "2026-03-17T03:01:47.735673+00:00",
+    "last_updated_at": "2026-03-17T03:01:47.735673+00:00"
+  },
+  {
+    "country_code": "JP",
+    "category_slug": "food",
+    "name": "カフェ おすすめ",
+    "name_local": "カフェ おすすめ",
+    "description": "Google Trends 기반 실시간 데이터. 관련 검색어: 大阪 カフェ おすすめ, 横浜 カフェ おすすめ, 新宿 カフェ おすすめ, 池袋 カフェ おすすめ, 韓国 カフェ おすすめ",
+    "heat_score": 91,
+    "heat_status": "rising",
+    "search_score": 66,
+    "social_score": 76,
+    "ecommerce_score": 66,
+    "news_score": 71,
+    "tags": [
+      "大阪 カフェ おすすめ",
+      "横浜 カフェ おすすめ",
+      "新宿 カフェ おすすめ",
+      "池袋 カフェ おすすめ",
+      "韓国 カフェ おすすめ"
+    ],
+    "first_detected_at": "2026-03-17T03:01:47.735673+00:00",
+    "last_updated_at": "2026-03-17T03:01:47.735673+00:00"
+  },
+  {
+    "country_code": "JP",
+    "category_slug": "tech",
+    "name": "AI トレンド",
+    "name_local": "AI トレンド",
+    "description": "Google Trends 기반 실시간 데이터. 시드 키워드: AI トレンド",
+    "heat_score": 11,
+    "heat_status": "cooling",
+    "search_score": 11,
+    "social_score": 0,
+    "ecommerce_score": 0,
+    "news_score": 0,
+    "tags": [
+      "AI トレンド"
+    ],
+    "first_detected_at": "2026-03-17T03:01:47.735673+00:00",
+    "last_updated_at": "2026-03-17T03:01:47.735673+00:00"
+  },
+  {
+    "country_code": "JP",
+    "category_slug": "tech",
+    "name": "ガジェット おすすめ",
+    "name_local": "ガジェット おすすめ",
+    "description": "Google Trends 기반 실시간 데이터. 관련 검색어: iphone ガジェット おすすめ",
+    "heat_score": 38,
+    "heat_status": "cooling",
+    "search_score": 28,
+    "social_score": 23,
+    "ecommerce_score": 13,
+    "news_score": 18,
+    "tags": [
+      "iphone ガジェット おすすめ"
+    ],
+    "first_detected_at": "2026-03-17T03:01:47.735673+00:00",
+    "last_updated_at": "2026-03-17T03:01:47.735673+00:00"
+  },
+  {
+    "country_code": "JP",
+    "category_slug": "lifestyle",
+    "name": "インテリア おすすめ",
+    "name_local": "インテリア おすすめ",
+    "description": "Google Trends 기반 실시간 데이터. 시드 키워드: インテリア おすすめ",
+    "heat_score": 11,
+    "heat_status": "cooling",
+    "search_score": 11,
+    "social_score": 0,
+    "ecommerce_score": 0,
+    "news_score": 0,
+    "tags": [
+      "インテリア おすすめ"
+    ],
+    "first_detected_at": "2026-03-17T03:01:47.735673+00:00",
+    "last_updated_at": "2026-03-17T03:01:47.735673+00:00"
+  },
+  {
+    "country_code": "CN",
+    "category_slug": "tech",
+    "name": "AI趋势",
+    "name_local": "AI趋势",
+    "description": "Google Trends 기반 실시간 데이터. 시드 키워드: AI趋势",
+    "heat_score": 5,
+    "heat_status": "cooling",
+    "search_score": 5,
+    "social_score": 0,
+    "ecommerce_score": 0,
+    "news_score": 0,
+    "tags": [
+      "AI趋势"
+    ],
+    "first_detected_at": "2026-03-17T03:01:47.735673+00:00",
+    "last_updated_at": "2026-03-17T03:01:47.735673+00:00"
+  },
+  {
+    "country_code": "GB",
+    "category_slug": "fashion",
+    "name": "streetwear UK",
+    "name_local": "streetwear UK",
+    "description": "Google Trends 기반 실시간 데이터. 시드 키워드: streetwear UK",
+    "heat_score": 11,
+    "heat_status": "cooling",
+    "search_score": 11,
+    "social_score": 0,
+    "ecommerce_score": 0,
+    "news_score": 0,
+    "tags": [
+      "streetwear UK"
+    ],
+    "first_detected_at": "2026-03-17T03:01:47.735673+00:00",
+    "last_updated_at": "2026-03-17T03:01:47.735673+00:00"
+  },
+  {
+    "country_code": "GB",
+    "category_slug": "fashion",
+    "name": "trainers trend",
+    "name_local": "trainers trend",
+    "description": "Google Trends 기반 실시간 데이터. 시드 키워드: trainers trend",
+    "heat_score": 5,
+    "heat_status": "cooling",
+    "search_score": 5,
+    "social_score": 0,
+    "ecommerce_score": 0,
+    "news_score": 0,
+    "tags": [
+      "trainers trend"
+    ],
+    "first_detected_at": "2026-03-17T03:01:47.735673+00:00",
+    "last_updated_at": "2026-03-17T03:01:47.735673+00:00"
+  },
+  {
+    "country_code": "GB",
+    "category_slug": "tech",
+    "name": "AI trend UK",
+    "name_local": "AI trend UK",
+    "description": "Google Trends 기반 실시간 데이터. 시드 키워드: AI trend UK",
+    "heat_score": 6,
+    "heat_status": "cooling",
+    "search_score": 6,
+    "social_score": 0,
+    "ecommerce_score": 0,
+    "news_score": 0,
+    "tags": [
+      "AI trend UK"
+    ],
+    "first_detected_at": "2026-03-17T03:01:47.735673+00:00",
+    "last_updated_at": "2026-03-17T03:01:47.735673+00:00"
+  },
+  {
+    "country_code": "GB",
+    "category_slug": "lifestyle",
+    "name": "home decor UK",
+    "name_local": "home decor UK",
+    "description": "Google Trends 기반 실시간 데이터. 시드 키워드: home decor UK",
+    "heat_score": 19,
+    "heat_status": "cooling",
+    "search_score": 19,
+    "social_score": 4,
+    "ecommerce_score": 0,
+    "news_score": 0,
+    "tags": [
+      "home decor UK"
+    ],
+    "first_detected_at": "2026-03-17T03:01:47.735673+00:00",
+    "last_updated_at": "2026-03-17T03:01:47.735673+00:00"
+  },
+  {
+    "country_code": "FR",
+    "category_slug": "fashion",
+    "name": "chaussures tendance",
+    "name_local": "chaussures tendance",
+    "description": "Google Trends 기반 실시간 데이터. 시드 키워드: chaussures tendance",
+    "heat_score": 17,
+    "heat_status": "cooling",
+    "search_score": 17,
+    "social_score": 2,
+    "ecommerce_score": 0,
+    "news_score": 0,
+    "tags": [
+      "chaussures tendance"
+    ],
+    "first_detected_at": "2026-03-17T03:01:47.735673+00:00",
+    "last_updated_at": "2026-03-17T03:01:47.735673+00:00"
+  },
+  {
+    "country_code": "FR",
+    "category_slug": "beauty",
+    "name": "routine soin",
+    "name_local": "routine soin",
+    "description": "Google Trends 기반 실시간 데이터. 관련 검색어: routine soin visage",
+    "heat_score": 20,
+    "heat_status": "cooling",
+    "search_score": 10,
+    "social_score": 5,
+    "ecommerce_score": 0,
+    "news_score": 0,
+    "tags": [
+      "routine soin visage"
+    ],
+    "first_detected_at": "2026-03-17T03:01:47.735673+00:00",
+    "last_updated_at": "2026-03-17T03:01:47.735673+00:00"
+  }
+]
