@@ -8,7 +8,7 @@ const VALID_CATEGORIES: CategorySlug[] = [
   'products',
   'food',
   'brands',
-  'challenges',
+  'challenge',
 ];
 const VALID_SORTS = ['heat_score', 'newest', 'fastest_rising'] as const;
 type SortOption = (typeof VALID_SORTS)[number];

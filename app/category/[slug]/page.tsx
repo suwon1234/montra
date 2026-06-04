@@ -19,8 +19,8 @@ const CATEGORY_DESCRIPTIONS: Record<string, string> = {
   fashion: '전 세계 패션 카테고리 트렌드를 한눈에 비교하세요',
   products: '글로벌 인기 상품 트렌드를 국가별로 살펴보세요',
   food: '각 나라의 핫한 푸드 트렌드를 발견하세요',
-  brands: '세계 각국의 브랜드 트렌드를 비교 분석하세요',
-  challenges: '전 세계 바이럴 챌린지 트렌드를 만나보세요',
+  brands: '세계 각국의 핫한 브랜드 트렌드를 살펴보세요',
+  challenge: '전 세계 바이럴 챌린지 트렌드를 만나보세요',
 };
 
 /** API /api/trends 응답 아이템 */

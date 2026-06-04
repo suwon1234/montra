@@ -16,7 +16,7 @@ export const MOCK_CATEGORIES: Category[] = [
   { id: 'cat-products', slug: 'products', name_ko: '상품', name_en: 'Products', emoji: '🛍️', sort_order: 2 },
   { id: 'cat-food', slug: 'food', name_ko: '음식', name_en: 'Food', emoji: '🍽️', sort_order: 3 },
   { id: 'cat-brands', slug: 'brands', name_ko: '브랜드', name_en: 'Brands', emoji: '🏷️', sort_order: 4 },
-  { id: 'cat-challenges', slug: 'challenges', name_ko: '챌린지', name_en: 'Challenges', emoji: '🔥', sort_order: 5 },
+  { id: 'cat-challenge', slug: 'challenge', name_ko: '챌린지', name_en: 'Challenge', emoji: '🔥', sort_order: 5 },
 ];
 
 // ============================================================
@@ -618,6 +618,7 @@ export function getMockCountriesWithStats(): CountryWithStats[] {
       ...country,
       rising_count: risingCount,
       total_trends: countryTrends.length,
+      investigated_count: 0,
       top_trend: topTrend?.name,
     };
   });

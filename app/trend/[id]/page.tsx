@@ -28,7 +28,7 @@ function formatDate(dateStr: string): string {
 }
 
 const SOURCE_ITEMS = [
-  { key: 'social_score' as const, label: '소셜 언급량', icon: MessageCircle, iconColor: 'text-stone-500' },
+  { key: 'social_score' as const, label: '소셜 관심도', icon: MessageCircle, iconColor: 'text-stone-500' },
 ];
 
 export default function TrendDetailPage({ params }: PageProps) {

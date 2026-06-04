@@ -1,6 +1,7 @@
 import type {NextConfig} from 'next';
 
 const nextConfig: NextConfig = {
+  serverExternalPackages: ['pg'],
   reactStrictMode: true,
   eslint: {
     ignoreDuringBuilds: true,
@@ -16,6 +17,20 @@ const nextConfig: NextConfig = {
         hostname: 'images.unsplash.com',
       },
     ],
+  },
+  webpack: (config, { isServer }) => {
+    if (!isServer) {
+      config.resolve.fallback = {
+        ...config.resolve.fallback,
+        net: false,
+        tls: false,
+        dns: false,
+        fs: false,
+        pg: false,
+        'pg-native': false,
+      };
+    }
+    return config;
   },
 };
 

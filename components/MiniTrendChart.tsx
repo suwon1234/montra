@@ -203,7 +203,7 @@ function MiniTooltip({
               style={{ backgroundColor: entry.color }}
             />
             <span className={`text-[11px] ${isDark ? 'text-white/50' : 'text-stone-500'}`}>
-              언급량
+              관심도
             </span>
             <span className={`text-[11px] font-bold ml-auto ${isDark ? 'text-white/90' : 'text-[#0a0a0a]'}`}>
               {entry.value}
@@ -256,7 +256,7 @@ export default function MiniTrendChart({ trend, historyData, height = 88, theme 
           <span className={`text-[10px] font-semibold tracking-wide ${
             isDark ? 'text-white/40' : 'text-stone-400'
           }`}>
-            💬 언급량
+            💬 관심도
           </span>
         </div>
       </div>

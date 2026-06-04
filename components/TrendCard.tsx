@@ -36,7 +36,7 @@ export default function TrendCard({ trend, historyData }: TrendCardProps) {
       </div>
 
       {/* Challenge badge */}
-      {(trend.category.slug === 'challenges' || trend.tags.includes('challenge')) && (
+      {(trend.category.slug === 'challenge' || trend.tags.includes('challenge')) && (
         <span className="inline-flex items-center gap-1 bg-orange-50 text-orange-600 rounded-full px-2.5 py-0.5 text-[10px] font-bold uppercase tracking-wider border border-orange-200 mb-2">
           <span className="text-xs">{'\uD83D\uDD25'}</span>
           챌린지

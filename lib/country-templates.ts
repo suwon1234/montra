@@ -32,15 +32,15 @@ const CATEGORY_DEFAULT_IMAGES: Record<string, string> = {
   products: 'https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&q=80&w=800',
   food: 'https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&q=80&w=800',
   brands: 'https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&q=80&w=800',
-  challenges: 'https://images.unsplash.com/photo-1533227268428-f9ed0900fb3b?auto=format&fit=crop&q=80&w=800',
+  challenge: 'https://images.unsplash.com/photo-1533227268428-f9ed0900fb3b?auto=format&fit=crop&q=80&w=800',
 };
 
 const CATEGORY_KO: Record<string, string> = {
-  fashion: '패션', products: '상품', food: '푸드', brands: '브랜드', challenges: '챌린지',
+  fashion: '옷', products: '상품', food: '음식', brands: '브랜드', challenge: '챌린지',
 };
 
 const CATEGORY_EMOJI: Record<string, string> = {
-  fashion: '👗', products: '📦', food: '🍪', brands: '🏷️', challenges: '🔥',
+  fashion: '👗', products: '🛍️', food: '🍽️', brands: '🏷️', challenge: '🔥',
 };
 
 let cachedRealData: RealTrendsData | null = null;
@@ -89,7 +89,7 @@ function realDataToTrends(code: string, countryName: string, realTrends: RealTre
       flag_emoji: '',
     },
     category: {
-      slug: t.category as 'fashion' | 'products' | 'food' | 'brands' | 'challenges',
+      slug: t.category as 'fashion' | 'products' | 'food' | 'brands' | 'challenge',
       name_ko: CATEGORY_KO[t.category] || t.category,
       name_en: t.category.charAt(0).toUpperCase() + t.category.slice(1),
       emoji: CATEGORY_EMOJI[t.category] || '📦',

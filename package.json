@@ -3,11 +3,23 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev -p 3100 -H 127.0.0.1",
+    "dev": "next dev -p 3001",
     "build": "next build",
     "start": "next start",
     "lint": "eslint .",
-    "clean": "next clean"
+    "clean": "next clean",
+    "opportunity:score": "node scripts/generate_opportunity_scores.mjs",
+    "opportunity:cross-border": "node scripts/generate_cross_border_opportunities.mjs",
+    "signals:focus-markets": "node scripts/collect_all_country_signals_2026_04_27.mjs --apply",
+    "signals:all-countries": "node scripts/collect_all_country_signals_2026_04_27.mjs --apply --all-countries",
+    "signals:tiktok-official": "node scripts/collect_tiktok_creative_center_official.mjs --apply",
+    "signals:focus-support": "node scripts/collect_focus_market_support_signals.mjs --apply",
+    "signals:focus-deep-import": "node scripts/import_focus25_deep_signals.mjs --apply",
+    "trends:refresh-focus-markets": "node scripts/refresh_focus_markets.mjs",
+    "trends:backfill-focus-history": "node scripts/backfill_focus_market_trend_history.mjs --apply",
+    "trends:rebuild-focus-history": "node scripts/rebuild_focus_market_history_from_saved_snapshots.mjs --apply --replace-range",
+    "trends:promote-verified": "node scripts/promote_verified_global_trends.mjs --apply --delete-raw-main",
+    "trends:quality-snapshot": "node scripts/report_trend_quality_snapshot.mjs"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.2.1",
@@ -19,6 +31,7 @@
     "lucide-react": "^0.553.0",
     "motion": "^12.23.24",
     "next": "^15.4.9",
+    "pg": "^8.20.0",
     "postcss": "^8.5.6",
     "react": "^19.2.1",
     "react-dom": "^19.2.1",

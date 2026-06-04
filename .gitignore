@@ -1,16 +1,108 @@
+# ============================================================
+# Node / Next.js
+# ============================================================
 node_modules/
 .next/
+out/
+build/
+dist/
 coverage/
-.DS_Store
-*.log
-.env*
+*.tsbuildinfo
+tsconfig.tsbuildinfo
+next-env.d.ts
+
+# ============================================================
+# Environment / Secrets
+# ============================================================
+.env
+.env.*
 !.env.example
 
-# Claude Code / bkit
+# ============================================================
+# System / Editor
+# ============================================================
+.DS_Store
+Thumbs.db
+*.log
+*.err
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ============================================================
+# Claude Code / AI Agents
+# ============================================================
 CLAUDE.md
 .claude/
+.claude-code/
 memory/
+MEMORY.md
 
-# 수집 데이터
+# ============================================================
+# bkit
+# ============================================================
+.bkit/
+.bkit-memory.json
+.pdca-status.json
+docs/.bkit-memory.json
+docs/.pdca-status.json
+
+# ============================================================
+# Playwright / MCP / Cache / Python deps
+# ============================================================
+.cache/
+.playwright-mcp/
+.pydeps/
+.venv/
+__pycache__/
+*.pyc
+playwright-report/
+test-results/
+e2e-results/
+
+# ============================================================
+# 트렌드 수집 데이터 / 백업 / 스크립트 결과물
+# ============================================================
 scripts/output/
 scripts/config/
+scripts/backups/
+
+# ============================================================
+# 큰 raw 데이터 파일
+# ============================================================
+network_tiktok_hashtag_list.txt
+network_tiktok_popular_trend.txt
+network_tiktok_products.txt
+tiktok_hashtags_*.txt
+*.dump
+*.sql.gz
+
+# ============================================================
+# 임시 스크린샷 / 개발 메모 이미지 (root 레벨)
+# /public/ 안의 정식 자산은 추적
+# ============================================================
+/*.png
+/*.jpg
+/*.jpeg
+/*.gif
+
+# ============================================================
+# 내부 작업 메모 / 리포트 / 비즈니스 블루프린트
+# ============================================================
+docs/verified-country-coverage-*.md
+docs/global-concrete-trend-research-*.md
+docs/verified-trend-workflow.md
+docs/montra-business-blueprint.md
+docs/QA_REPORT.md
+docs/AGENT_TEAM.md
+docs/DEPLOY_GUIDE.md
+docs/QA_RULES.md
+
+# ============================================================
+# OS / Misc
+# ============================================================
+*.pid
+*.seed
+*.tar.gz
+*.zip

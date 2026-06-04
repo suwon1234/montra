@@ -12,13 +12,13 @@ export type Region =
   | 'africa'
   | 'oceania';
 
-/** 카테고리 슬러그 */
+/** 카테고리 슬러그 (Docker PostgreSQL DB 기준) */
 export type CategorySlug =
   | 'fashion'
   | 'products'
   | 'food'
   | 'brands'
-  | 'challenges';
+  | 'challenge';
 
 /** 트렌드 열기 상태 */
 export type HeatStatus = 'rising' | 'steady' | 'cooling' | 'new';
@@ -109,7 +109,15 @@ export interface TrendWithDetails extends Trend {
 export interface CountryWithStats extends Country {
   rising_count: number;
   total_trends: number;
+  investigated_count: number;
   top_trend?: string;
+}
+
+export interface FocusMarketRefreshSummary {
+  batch_date: string;
+  country_count: number;
+  trend_count: number;
+  latest_signal_at?: string | null;
 }
 
 // ------------------------------------------------------------
