@@ -8,6 +8,7 @@ Google Shopping에서 국가별/카테고리별 실제 트렌드 상품을 수�
 
 import sys
 import io
+import os
 import json
 import time
 import urllib.request
@@ -22,8 +23,17 @@ SCRIPT_DIR = Path(__file__).parent
 OUTPUT_DIR = SCRIPT_DIR / "output"
 OUTPUT_DIR.mkdir(exist_ok=True)
 
-# SerpAPI 키
-API_KEY = "089e7900f4532e1d90544d3be57e126b3c99b46436c445a4a716d50b5316db5e"
+# SerpAPI 키 — 환경변수 우선, 없으면 .env.local 의 SERPAPI_KEY= 라인에서 읽음
+ENV_PATH = SCRIPT_DIR.parent / ".env.local"
+API_KEY = os.environ.get("SERPAPI_KEY", "")
+if not API_KEY and ENV_PATH.exists():
+    for line in ENV_PATH.read_text(encoding="utf-8").split("\n"):
+        if line.startswith("SERPAPI_KEY="):
+            API_KEY = line.split("=", 1)[1].strip()
+            break
+if not API_KEY:
+    print("ERROR: SERPAPI_KEY is missing in environment or .env.local")
+    sys.exit(1)
 
 # 6개국
 COUNTRIES = [
