@@ -4,7 +4,7 @@ import CountryCard from './CountryCard';
 import Reveal from './Reveal';
 
 export default async function CountryGrid() {
-  // 1) DB(Docker PG → Supabase → mock) 조회. 실패해도 lib/data.ts에서 mock fallback이 동작함.
+  // 1) DB(Docker PG → mock) 조회. 실패해도 lib/data.ts에서 mock fallback이 동작함.
   let stats: Awaited<ReturnType<typeof getCountriesWithStats>> = [];
   try {
     stats = await getCountriesWithStats();
