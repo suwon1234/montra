@@ -1,10 +1,9 @@
 // ============================================================
 // MONTRA 데이터 레이어
-// Supabase 연결 시 → 실제 DB 쿼리
-// Supabase 미연결 시 → mock-data fallback
+// Docker PostgreSQL 연결 시 → 실제 DB 쿼리
+// 연결 실패 시 → mock-data fallback
 // ============================================================
 
-import { getSupabaseClient } from './supabase';
 import { getPool } from './db';
 import {
   filterMockTrends,
@@ -14,7 +13,6 @@ import {
   getMockBatchHistory,
   MOCK_CATEGORIES,
   MOCK_COUNTRIES,
-  MOCK_TRENDS,
 } from './mock-data';
 import { FOCUS_MARKET_CODES } from './focus-markets';
 import type {
@@ -24,7 +22,6 @@ import type {
   CountryWithStats,
   FocusMarketRefreshSummary,
   HeatStatus,
-  Trend,
   TrendHistory,
   TrendWithDetails,
 } from './types';
@@ -85,10 +82,6 @@ function dedupeTrendRows(rows: TrendWithDetails[]): TrendWithDetails[] {
   return [...seen.values()];
 }
 
-function extractBatchDate(tags: string[] | null | undefined): string | null {
-  return (tags ?? []).find((tag) => /^\d{4}-\d{2}-\d{2}$/.test(tag)) ?? null;
-}
-
 async function getLatestFocusBatchDateFromPool(pool: { query: (sql: string, params?: unknown[]) => Promise<{ rows: Array<{ batch_date: string }> }> }): Promise<string | null> {
   const { rows } = await pool.query(`
     WITH tagged AS (
@@ -116,23 +109,6 @@ async function getLatestSignalWindowDateFromPool(
   return rows[0]?.window_date ?? null;
 }
 
-function filterToLatestFocusBatch<T extends { tags: string[] }>(rows: T[]): T[] {
-  const tagged = rows
-    .filter((row) => row.tags.includes('focus-market-verified-refresh'))
-    .map((row) => ({ row, batchDate: extractBatchDate(row.tags) }))
-    .filter((item): item is { row: T; batchDate: string } => Boolean(item.batchDate));
-
-  if (tagged.length === 0) return rows;
-
-  const latestBatchDate = tagged
-    .map((item) => item.batchDate)
-    .sort((a, b) => b.localeCompare(a))[0];
-
-  return tagged
-    .filter((item) => item.batchDate === latestBatchDate)
-    .map((item) => item.row);
-}
-
 // ============================================================
 // 트렌드 목록 (필터/정렬/페이징)
 // ============================================================
@@ -147,7 +123,6 @@ export async function getTrends(options?: {
   latestFocusBatchOnly?: boolean;
 }): Promise<TrendWithDetails[]> {
   const latestFocusBatchOnly = options?.latestFocusBatchOnly ?? true;
-  // 1) Docker PostgreSQL 직접 연결
   const pool = getPool();
   if (pool) {
     try {
@@ -208,106 +183,16 @@ export async function getTrends(options?: {
     }
   }
 
-  // 2) Supabase fallback
-  const supabase = getSupabaseClient();
-
-  if (!supabase) {
-    return filterMockTrends({
-      countryCode: options?.countryCode,
-      categorySlug: options?.categorySlug,
-      heatStatus: options?.heatStatus,
-      search: options?.search,
-      sortBy: options?.sortBy,
-      sortOrder: options?.sortOrder,
-      limit: options?.limit,
-    });
-  }
-
-  try {
-    let query = supabase
-      .from('trends')
-      .select('*, countries(*), categories(*)');
-
-    if (options?.countryCode) {
-      const { data: countryData } = await supabase
-        .from('countries')
-        .select('id')
-        .eq('code', options.countryCode.toUpperCase())
-        .single();
-
-      if (countryData) {
-        query = query.eq('country_id', countryData.id);
-      } else {
-        return [];
-      }
-    }
-
-    if (options?.categorySlug) {
-      const { data: categoryData } = await supabase
-        .from('categories')
-        .select('id')
-        .eq('slug', options.categorySlug)
-        .single();
-
-      if (categoryData) {
-        query = query.eq('category_id', categoryData.id);
-      } else {
-        return [];
-      }
-    }
-
-    if (options?.heatStatus) {
-      query = query.eq('heat_status', options.heatStatus);
-    }
-
-    if (options?.search) {
-      const searchTerm = `%${options.search}%`;
-      query = query.or(
-        `name.ilike.${searchTerm},description.ilike.${searchTerm}`
-      );
-    }
-
-    const sortBy = options?.sortBy ?? 'heat_score';
-    const sortOrder = options?.sortOrder ?? 'desc';
-    query = query.order(sortBy, { ascending: sortOrder === 'asc' });
-
-    if (options?.limit) {
-      query = query.limit(Math.min(options.limit * 4, 400));
-    }
-
-    const { data, error } = await query;
-
-    if (error) {
-      console.error('[Supabase] getTrends 쿼리 실패, mock fallback:', error.message);
-      return filterMockTrends({
-        countryCode: options?.countryCode,
-        categorySlug: options?.categorySlug,
-        heatStatus: options?.heatStatus,
-        search: options?.search,
-        sortBy: options?.sortBy,
-        sortOrder: options?.sortOrder,
-        limit: options?.limit,
-      });
-    }
-
-    let mapped = (data ?? []).map(mapSupabaseTrendToTrendWithDetails);
-    if (latestFocusBatchOnly) {
-      mapped = filterToLatestFocusBatch(mapped);
-    }
-    const deduped = dedupeTrendRows(mapped);
-    return options?.limit ? deduped.slice(0, options.limit) : deduped;
-  } catch (err) {
-    console.error('[Supabase] getTrends 예외, mock fallback:', err);
-    return filterMockTrends({
-      countryCode: options?.countryCode,
-      categorySlug: options?.categorySlug,
-      heatStatus: options?.heatStatus,
-      search: options?.search,
-      sortBy: options?.sortBy,
-      sortOrder: options?.sortOrder,
-      limit: options?.limit,
-    });
-  }
+  // DB 미연결/실패 → mock fallback
+  return filterMockTrends({
+    countryCode: options?.countryCode,
+    categorySlug: options?.categorySlug,
+    heatStatus: options?.heatStatus,
+    search: options?.search,
+    sortBy: options?.sortBy,
+    sortOrder: options?.sortOrder,
+    limit: options?.limit,
+  });
 }
 
 // ============================================================
@@ -359,57 +244,7 @@ export async function getCountriesWithStats(): Promise<CountryWithStats[]> {
     }
   }
 
-  const supabase = getSupabaseClient();
-
-  if (!supabase) {
-    return getMockCountriesWithStats();
-  }
-
-  try {
-    const { data: countries, error: countriesError } = await supabase
-      .from('countries')
-      .select('*')
-      .eq('is_active', true);
-
-    if (countriesError || !countries) {
-      console.error('[Supabase] getCountriesWithStats 쿼리 실패, mock fallback:', countriesError?.message);
-      return getMockCountriesWithStats();
-    }
-
-    const { data: trends, error: trendsError } = await supabase
-      .from('trends')
-      .select('country_id, heat_status, heat_score, name, tags, last_updated_at');
-
-    if (trendsError || !trends) {
-      console.error('[Supabase] getCountriesWithStats 트렌드 조회 실패, mock fallback:', trendsError?.message);
-      return getMockCountriesWithStats();
-    }
-
-    const scopedTrends = filterToLatestFocusBatch(trends as Array<{ country_id: string; heat_status: string; heat_score: number; name: string; tags: string[]; last_updated_at?: string }>);
-
-    return countries.map((country) => {
-      const countryTrends = scopedTrends.filter(
-        (t) => t.country_id === country.id
-      );
-      const risingCount = countryTrends.filter(
-        (t) => t.heat_status === 'rising'
-      ).length;
-      const topTrend = [...countryTrends].sort(
-        (a, b) => b.heat_score - a.heat_score || Date.parse(b.last_updated_at ?? '') - Date.parse(a.last_updated_at ?? '')
-      )[0];
-
-      return {
-        ...(country as Country),
-        rising_count: risingCount,
-        total_trends: countryTrends.length,
-        investigated_count: 0,
-        top_trend: topTrend?.name,
-      };
-    });
-  } catch (err) {
-    console.error('[Supabase] getCountriesWithStats 예외, mock fallback:', err);
-    return getMockCountriesWithStats();
-  }
+  return getMockCountriesWithStats();
 }
 
 // ============================================================
@@ -426,28 +261,7 @@ export async function getCategories(): Promise<Category[]> {
     }
   }
 
-  const supabase = getSupabaseClient();
-
-  if (!supabase) {
-    return MOCK_CATEGORIES;
-  }
-
-  try {
-    const { data, error } = await supabase
-      .from('categories')
-      .select('*')
-      .order('sort_order', { ascending: true });
-
-    if (error || !data) {
-      console.error('[Supabase] getCategories 쿼리 실패, mock fallback:', error?.message);
-      return MOCK_CATEGORIES;
-    }
-
-    return data as Category[];
-  } catch (err) {
-    console.error('[Supabase] getCategories 예외, mock fallback:', err);
-    return MOCK_CATEGORIES;
-  }
+  return MOCK_CATEGORIES;
 }
 
 // ============================================================
@@ -473,32 +287,8 @@ export async function getTrendById(id: string): Promise<TrendWithDetails | null>
     }
   }
 
-  const supabase = getSupabaseClient();
-
-  if (!supabase) {
-    const allTrends = getMockTrendsWithDetails();
-    return allTrends.find((t) => t.id === id) ?? null;
-  }
-
-  try {
-    const { data, error } = await supabase
-      .from('trends')
-      .select('*, countries(*), categories(*)')
-      .eq('id', id)
-      .single();
-
-    if (error || !data) {
-      console.error('[Supabase] getTrendById 쿼리 실패, mock fallback:', error?.message);
-      const allTrends = getMockTrendsWithDetails();
-      return allTrends.find((t) => t.id === id) ?? null;
-    }
-
-    return mapSupabaseTrendToTrendWithDetails(data);
-  } catch (err) {
-    console.error('[Supabase] getTrendById 예외, mock fallback:', err);
-    const allTrends = getMockTrendsWithDetails();
-    return allTrends.find((t) => t.id === id) ?? null;
-  }
+  const allTrends = getMockTrendsWithDetails();
+  return allTrends.find((t) => t.id === id) ?? null;
 }
 
 // ============================================================
@@ -518,29 +308,7 @@ export async function getHistoryForTrend(trendId: string): Promise<TrendHistory[
     }
   }
 
-  const supabase = getSupabaseClient();
-
-  if (!supabase) {
-    return getMockHistoryForTrend(trendId);
-  }
-
-  try {
-    const { data, error } = await supabase
-      .from('trend_history')
-      .select('*')
-      .eq('trend_id', trendId)
-      .order('recorded_at', { ascending: true });
-
-    if (error || !data) {
-      console.error('[Supabase] getHistoryForTrend 쿼리 실패, mock fallback:', error?.message);
-      return getMockHistoryForTrend(trendId);
-    }
-
-    return data as TrendHistory[];
-  } catch (err) {
-    console.error('[Supabase] getHistoryForTrend 예외, mock fallback:', err);
-    return getMockHistoryForTrend(trendId);
-  }
+  return getMockHistoryForTrend(trendId);
 }
 
 // ============================================================
@@ -568,45 +336,7 @@ export async function getBatchHistoryForTrends(
     }
   }
 
-  const supabase = getSupabaseClient();
-
-  if (!supabase) {
-    return getMockBatchHistory(trendIds);
-  }
-
-  try {
-    const { data, error } = await supabase
-      .from('trend_history')
-      .select('*')
-      .in('trend_id', trendIds)
-      .order('recorded_at', { ascending: true });
-
-    if (error || !data) {
-      console.error(
-        '[Supabase] getBatchHistoryForTrends 쿼리 실패, mock fallback:',
-        error?.message
-      );
-      return getMockBatchHistory(trendIds);
-    }
-
-    const result: Record<string, TrendHistory[]> = {};
-    for (const id of trendIds) {
-      result[id] = [];
-    }
-    for (const row of data as TrendHistory[]) {
-      if (result[row.trend_id]) {
-        result[row.trend_id].push(row);
-      }
-    }
-
-    return result;
-  } catch (err) {
-    console.error(
-      '[Supabase] getBatchHistoryForTrends 예외, mock fallback:',
-      err
-    );
-    return getMockBatchHistory(trendIds);
-  }
+  return getMockBatchHistory(trendIds);
 }
 
 // ============================================================
@@ -627,29 +357,7 @@ export async function getCountryByCode(code: string): Promise<Country | null> {
     }
   }
 
-  const supabase = getSupabaseClient();
-
-  if (!supabase) {
-    return MOCK_COUNTRIES.find((c) => c.code === code.toUpperCase()) ?? null;
-  }
-
-  try {
-    const { data, error } = await supabase
-      .from('countries')
-      .select('*')
-      .eq('code', code.toUpperCase())
-      .single();
-
-    if (error || !data) {
-      console.error('[Supabase] getCountryByCode 쿼리 실패, mock fallback:', error?.message);
-      return MOCK_COUNTRIES.find((c) => c.code === code.toUpperCase()) ?? null;
-    }
-
-    return data as Country;
-  } catch (err) {
-    console.error('[Supabase] getCountryByCode 예외, mock fallback:', err);
-    return MOCK_COUNTRIES.find((c) => c.code === code.toUpperCase()) ?? null;
-  }
+  return MOCK_COUNTRIES.find((c) => c.code === code.toUpperCase()) ?? null;
 }
 
 // ============================================================
@@ -676,40 +384,9 @@ export async function getGlobalRanking(limit?: number): Promise<TrendWithDetails
     }
   }
 
-  const supabase = getSupabaseClient();
-
-  if (!supabase) {
-    const allTrends = getMockTrendsWithDetails();
-    allTrends.sort((a, b) => b.heat_score - a.heat_score);
-    return limit ? allTrends.slice(0, limit) : allTrends;
-  }
-
-  try {
-    let query = supabase
-      .from('trends')
-      .select('*, countries(*), categories(*)')
-      .order('heat_score', { ascending: false });
-
-    if (limit) {
-      query = query.limit(limit);
-    }
-
-    const { data, error } = await query;
-
-    if (error || !data) {
-      console.error('[Supabase] getGlobalRanking 쿼리 실패, mock fallback:', error?.message);
-      const allTrends = getMockTrendsWithDetails();
-      allTrends.sort((a, b) => b.heat_score - a.heat_score);
-      return limit ? allTrends.slice(0, limit) : allTrends;
-    }
-
-    return (data ?? []).map(mapSupabaseTrendToTrendWithDetails);
-  } catch (err) {
-    console.error('[Supabase] getGlobalRanking 예외, mock fallback:', err);
-    const allTrends = getMockTrendsWithDetails();
-    allTrends.sort((a, b) => b.heat_score - a.heat_score);
-    return limit ? allTrends.slice(0, limit) : allTrends;
-  }
+  const allTrends = getMockTrendsWithDetails();
+  allTrends.sort((a, b) => b.heat_score - a.heat_score);
+  return limit ? allTrends.slice(0, limit) : allTrends;
 }
 
 export async function getLatestFocusMarketRefreshSummary(): Promise<FocusMarketRefreshSummary | null> {
@@ -751,91 +428,12 @@ export async function getLatestFocusMarketRefreshSummary(): Promise<FocusMarketR
     }
   }
 
-  try {
-    const trends = await getTrends();
-    const tagged = trends
-      .filter((trend) => trend.tags.includes('focus-market-verified-refresh'))
-      .map((trend) => {
-        const batchDate = trend.tags.find((tag) => /^\d{4}-\d{2}-\d{2}$/.test(tag));
-        return batchDate
-          ? {
-              batch_date: batchDate,
-              country_code: trend.country.code,
-              last_updated_at: trend.last_updated_at,
-            }
-          : null;
-      })
-      .filter(Boolean) as Array<{
-        batch_date: string;
-        country_code: string;
-        last_updated_at: string;
-      }>;
-
-    if (tagged.length === 0) return null;
-
-    const latestBatchDate = tagged
-      .map((item) => item.batch_date)
-      .sort((a, b) => b.localeCompare(a))[0];
-
-    const latestBatchRows = tagged.filter((item) => item.batch_date === latestBatchDate);
-    const latestSignalAt =
-      latestBatchRows
-        .map((item) => item.last_updated_at)
-        .sort((a, b) => Date.parse(b) - Date.parse(a))[0] ?? null;
-
-    return {
-      batch_date: latestBatchDate,
-      country_count: new Set(latestBatchRows.map((item) => item.country_code)).size,
-      trend_count: latestBatchRows.length,
-      latest_signal_at: latestSignalAt,
-    };
-  } catch (err) {
-    console.error('[Fallback] getLatestFocusMarketRefreshSummary 예외:', err);
-    return null;
-  }
+  return null;
 }
 
 // ============================================================
-// 내부 헬퍼: Supabase JOIN 결과 → TrendWithDetails 변환
+// 내부 헬퍼: PG row → TrendWithDetails 변환
 // ============================================================
-
-// Supabase가 select('*, countries(*), categories(*)') 으로 반환하는 raw 타입
-interface SupabaseTrendRow {
-  id: string;
-  country_id: string;
-  category_id: string;
-  name: string;
-  name_local?: string;
-  description?: string;
-  heat_score: number;
-  heat_status: HeatStatus;
-  search_score: number;
-  social_score: number;
-  ecommerce_score: number;
-  news_score: number;
-  tags: string[];
-  image_url?: string;
-  price?: string;
-  source_urls: string[];
-  first_detected_at: string;
-  last_updated_at: string;
-  peak_date?: string;
-  created_at: string;
-  countries: {
-    code: string;
-    name_ko: string;
-    name_en: string;
-    flag_emoji: string;
-    [key: string]: unknown;
-  };
-  categories: {
-    slug: CategorySlug;
-    name_ko: string;
-    name_en: string;
-    emoji: string;
-    [key: string]: unknown;
-  };
-}
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 function mapPgRowToTrendWithDetails(row: any): TrendWithDetails {
@@ -862,46 +460,5 @@ function mapPgRowToTrendWithDetails(row: any): TrendWithDetails {
     created_at: row.created_at,
     country: row.country,
     category: row.category,
-  };
-}
-
-function mapSupabaseTrendToTrendWithDetails(
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  row: any
-): TrendWithDetails {
-  const r = row as SupabaseTrendRow;
-  return {
-    id: r.id,
-    country_id: r.country_id,
-    category_id: r.category_id,
-    name: r.name,
-    name_local: r.name_local,
-    description: r.description,
-    heat_score: r.heat_score,
-    heat_status: r.heat_status,
-    search_score: r.search_score,
-    social_score: r.social_score,
-    ecommerce_score: r.ecommerce_score,
-    news_score: r.news_score,
-    tags: r.tags ?? [],
-    image_url: r.image_url,
-    price: r.price,
-    source_urls: r.source_urls ?? [],
-    first_detected_at: r.first_detected_at,
-    last_updated_at: r.last_updated_at,
-    peak_date: r.peak_date,
-    created_at: r.created_at,
-    country: {
-      code: r.countries.code,
-      name_ko: r.countries.name_ko,
-      name_en: r.countries.name_en,
-      flag_emoji: r.countries.flag_emoji,
-    },
-    category: {
-      slug: r.categories.slug,
-      name_ko: r.categories.name_ko,
-      name_en: r.categories.name_en,
-      emoji: r.categories.emoji,
-    },
   };
 }
